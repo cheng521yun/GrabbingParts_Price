@@ -1,0 +1,14 @@
+F:\MyWork\《网站项目》\《唯芯会》\外包程序\Crawler\Crawler-master_V25\Util\FtpHelpers\bin\Debug\GrabbingParts.Util.FtpHelpers.dll.config
+F:\MyWork\《网站项目》\《唯芯会》\外包程序\Crawler\Crawler-master_V25\Util\FtpHelpers\bin\Debug\GrabbingParts.Util.FtpHelpers.dll
+F:\MyWork\《网站项目》\《唯芯会》\外包程序\Crawler\Crawler-master_V25\Util\FtpHelpers\bin\Debug\GrabbingParts.Util.FtpHelpers.pdb
+F:\MyWork\《网站项目》\《唯芯会》\外包程序\Crawler\Crawler-master_V25\Util\FtpHelpers\bin\Debug\log4net.dll
+F:\MyWork\《网站项目》\《唯芯会》\外包程序\Crawler\Crawler-master_V25\Util\FtpHelpers\bin\Debug\log4net.xml
+F:\MyWork\《网站项目》\《唯芯会》\外包程序\Crawler\Crawler-master_V25\Util\FtpHelpers\obj\Debug\GrabbingParts.Util.FtpHelpers.dll
+F:\MyWork\《网站项目》\《唯芯会》\外包程序\Crawler\Crawler-master_V25\Util\FtpHelpers\obj\Debug\GrabbingParts.Util.FtpHelpers.pdb
+D:\GrabbingParts\GrabbingParts\Util\FtpHelpers\bin\Debug\GrabbingParts.Util.FtpHelpers.dll.config
+D:\GrabbingParts\GrabbingParts\Util\FtpHelpers\bin\Debug\GrabbingParts.Util.FtpHelpers.dll
+D:\GrabbingParts\GrabbingParts\Util\FtpHelpers\bin\Debug\GrabbingParts.Util.FtpHelpers.pdb
+D:\GrabbingParts\GrabbingParts\Util\FtpHelpers\bin\Debug\log4net.dll
+D:\GrabbingParts\GrabbingParts\Util\FtpHelpers\bin\Debug\log4net.xml
+D:\GrabbingParts\GrabbingParts\Util\FtpHelpers\obj\Debug\GrabbingParts.Util.FtpHelpers.dll
+D:\GrabbingParts\GrabbingParts\Util\FtpHelpers\obj\Debug\GrabbingParts.Util.FtpHelpers.pdb

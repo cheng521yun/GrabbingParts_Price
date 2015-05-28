@@ -1,0 +1,516 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<r>
+  <cat id="Category3" n="互连产品" guid="0bb20fdb-50b4-4e29-895a-d5381bcb5aca">
+    <wgts>
+      <wgt id="1" n="电缆组件" url="http://www.digikey.com.cn/search/zh/电缆组件/42" guid="7dc3bd29-0e2f-431b-a2c1-1d234f4433bc">
+        <pgs>
+          <pg id="1" n="专用电缆组件" url="http://www.digikey.com.cn/search/zh/电缆组件/专用电缆组件/63" guid="7bbbf9b4-0c64-49b8-ae0c-1bacfd1b89fb">
+            <ps />
+          </pg>
+          <pg id="2" n="光纤电缆" url="http://www.digikey.com.cn/search/zh/电缆组件/光纤电缆/52" guid="211422a9-469a-49da-8e93-893082034f32">
+            <ps />
+          </pg>
+          <pg id="3" n="同轴电缆（RF）" url="http://www.digikey.com.cn/search/zh/电缆组件/同轴电缆（RF）/47" guid="ecfc33d1-9f8b-45e5-8f29-ce3166c87cb2">
+            <ps />
+          </pg>
+          <pg id="4" n="固态照明电缆" url="http://www.digikey.com.cn/search/zh/电缆组件/固态照明电缆/62" guid="9fda0f41-26e3-4028-a164-ae9fbd9b5211">
+            <ps />
+          </pg>
+          <pg id="5" n="圆形电缆组件" url="http://www.digikey.com.cn/search/zh/电缆组件/圆形电缆组件/46" guid="1efaf8ab-5540-49b3-b552-4ebb7f1d91ac">
+            <ps />
+          </pg>
+          <pg id="6" n="套管 - 电源电缆" url="http://www.digikey.com.cn/search/zh/电缆组件/套管-电源电缆/44" guid="85e41ede-e05b-4d08-9b12-343005e3dbe8">
+            <ps />
+          </pg>
+          <pg id="7" n="套管 - 音频电缆" url="http://www.digikey.com.cn/search/zh/电缆组件/套管-音频电缆/43" guid="5b59a933-01b2-4f26-92b8-7099dc1d8d1a">
+            <ps />
+          </pg>
+          <pg id="8" n="平软线（FFC，FPC）" url="http://www.digikey.com.cn/search/zh/电缆组件/平软线（FFC-FPC）/50" guid="587d6c1a-f31c-4f5e-9f2d-0e48e1fbc15e">
+            <ps />
+          </pg>
+          <pg id="9" n="平软线，带状跳线" url="http://www.digikey.com.cn/search/zh/电缆组件/平软线-带状跳线/51" guid="a249be0f-c63c-4221-a4c2-6297edbcd1a5">
+            <ps />
+          </pg>
+          <pg id="10" n="插接式电缆" url="http://www.digikey.com.cn/search/zh/电缆组件/插接式电缆/57" guid="55413c2e-d4f0-4706-9566-3971a92d0544">
+            <ps />
+          </pg>
+          <pg id="11" n="智能电缆" url="http://www.digikey.com.cn/search/zh/电缆组件/智能电缆/61" guid="ab295071-12ae-4a42-acd2-c27fb75090a1">
+            <ps />
+          </pg>
+          <pg id="12" n="模块化电缆" url="http://www.digikey.com.cn/search/zh/电缆组件/模块化电缆/56" guid="54aa0598-1779-4f33-b67a-945aee722fe5">
+            <ps />
+          </pg>
+          <pg id="13" n="火线电缆（IEEE 1394）" url="http://www.digikey.com.cn/search/zh/电缆组件/火线电缆（IEEE-1394）/53" guid="1d9d7331-a880-4cfd-b30c-d95b1aee9e26">
+            <ps />
+          </pg>
+          <pg id="14" n="电源，线缆" url="http://www.digikey.com.cn/search/zh/电缆组件/电源-线缆/58" guid="39007cb9-3abf-4132-aef9-f2d0f60e3739">
+            <ps />
+          </pg>
+          <pg id="15" n="矩形电缆组件" url="http://www.digikey.com.cn/search/zh/电缆组件/矩形电缆组件/60" guid="f808594a-c5aa-49a7-9e04-8d6028525642">
+            <ps />
+          </pg>
+          <pg id="16" n="系列间适配器电缆" url="http://www.digikey.com.cn/search/zh/电缆组件/系列间适配器电缆/45" guid="5bf91afd-8a9b-4095-9e79-f76c9ef0a5bd">
+            <ps />
+          </pg>
+          <pg id="17" n="视频电缆（DVI，HDMI）" url="http://www.digikey.com.cn/search/zh/电缆组件/视频电缆（DVI-HDMI）/65" guid="014882d9-eabc-4c65-8d41-0c4f990518ee">
+            <ps />
+          </pg>
+          <pg id="18" n="跳线，预压接" url="http://www.digikey.com.cn/search/zh/电缆组件/跳线-预压接/54" guid="b13ef81e-5ea0-485c-95d0-cd8dc39cfbe5">
+            <ps />
+          </pg>
+          <pg id="19" n="D 形，并口电缆" url="http://www.digikey.com.cn/search/zh/电缆组件/D-形-并口电缆/48" guid="606aba4e-1348-4c99-8679-09e675b94ef4">
+            <ps />
+          </pg>
+          <pg id="20" n="D-Sub 电缆" url="http://www.digikey.com.cn/search/zh/电缆组件/D-Sub-电缆/49" guid="d39ac5b6-6d73-4d14-91de-6693851f2684">
+            <ps />
+          </pg>
+          <pg id="21" n="LGH 电缆" url="http://www.digikey.com.cn/search/zh/电缆组件/LGH-电缆/55" guid="3bcc3a03-a450-49b7-810b-9dcb2237d1e7">
+            <ps />
+          </pg>
+          <pg id="22" n="USB 电缆" url="http://www.digikey.com.cn/search/zh/电缆组件/USB-电缆/64" guid="363d6c27-e2d5-49e7-b338-ff8fcc05d27c">
+            <ps />
+          </pg>
+        </pgs>
+      </wgt>
+      <wgt id="2" n="连接器，互连器件" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/150" guid="b6c2fdc2-6210-4657-bd8e-266f6376be34">
+        <pgs>
+          <pg id="1" n="光伏（太阳能板）连接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/光伏（太阳能板）连接器/233" guid="ce0343f4-9890-4edc-80eb-2f034081cfdd">
+            <ps />
+          </pg>
+          <pg id="2" n="光伏（太阳能板）连接器 - 触头" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/光伏（太阳能板）连接器-触头/235" guid="d1172c60-2638-46fa-9ab3-e4ea93d0b6f8">
+            <ps />
+          </pg>
+          <pg id="3" n="光伏（太阳能板）连接器 - 配件" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/光伏（太阳能板）连接器-配件/234" guid="9e2ae7df-a2c6-42fd-93be-5edbe718ff29">
+            <ps />
+          </pg>
+          <pg id="4" n="光纤连接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/光纤连接器/4458" guid="3b5a11e7-6d8a-43e1-8c9f-0ee055e215ac">
+            <ps />
+          </pg>
+          <pg id="5" n="光纤连接器 - 外壳" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/光纤连接器-外壳/6262" guid="7fb59b1f-7cc4-471e-a2a7-02ae5e1e3025">
+            <ps />
+          </pg>
+          <pg id="6" n="光纤连接器 - 适配器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/光纤连接器-适配器/210" guid="7614dae1-1839-4bef-a6e6-86d4d6737e91">
+            <ps />
+          </pg>
+          <pg id="7" n="光纤连接器 - 配件" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/光纤连接器-配件/209" guid="c56f6c55-5ee3-4baa-8a38-ffe47eaf8581">
+            <ps />
+          </pg>
+          <pg id="8" n="刀片式电源连接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/刀片式电源连接器/168" guid="15e90b9a-fbf7-4a98-a933-a868a4641287">
+            <ps />
+          </pg>
+          <pg id="9" n="刀片式电源连接器 - 触头" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/刀片式电源连接器-触头/170" guid="849c6d2c-6873-4b3d-842f-1b35d7808b60">
+            <ps />
+          </pg>
+          <pg id="10" n="刀片式电源连接器 - 配件" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/刀片式电源连接器-配件/169" guid="44662f61-c592-4d24-a780-a3eb899d20c1">
+            <ps />
+          </pg>
+          <pg id="11" n="刀片式电源连接器 -  外壳" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/刀片式电源连接器- -外壳/171" guid="c8d7732a-2790-4bec-8f5f-ea99c44c52b9">
+            <ps />
+          </pg>
+          <pg id="12" n="分路器，跳線" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/分路器-跳線/252" guid="1333af03-8c29-4a3a-b079-12e62694b8fa">
+            <ps />
+          </pg>
+          <pg id="13" n="卡边缘连接器 - 外壳" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/卡边缘连接器-外壳/180" guid="553ad2de-0d3c-4413-9f1a-6ea5f735bf15">
+            <ps />
+          </pg>
+          <pg id="14" n="卡边缘连接器 - 触头" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/卡边缘连接器-触头/179" guid="6936cc10-c339-4020-8cb1-7d750fabf2f9">
+            <ps />
+          </pg>
+          <pg id="15" n="卡边缘连接器 - 边缘板连接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/卡边缘连接器-边缘板连接器/181" guid="a8530e6f-acac-47ba-bf56-15013b25eda3">
+            <ps />
+          </pg>
+          <pg id="16" n="卡边缘连接器 - 适配器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/卡边缘连接器-适配器/178" guid="c7ae4f7c-e576-4537-8893-a911a7d932c2">
+            <ps />
+          </pg>
+          <pg id="17" n="卡边缘连接器 - 配件" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/卡边缘连接器-配件/177" guid="9a5a5b21-26c9-4faf-96d9-fe4ad1d8a454">
+            <ps />
+          </pg>
+          <pg id="18" n="同轴连接器（RF）" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/同轴连接器（RF）/4455" guid="9742c602-830f-4a80-8c26-ffde4f67c404">
+            <ps />
+          </pg>
+          <pg id="19" n="同轴连接器（RF） - 端接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/同轴连接器（RF）-端接器/192" guid="9b54e3e2-cbc1-42a7-ae81-a2f5fc1904ce">
+            <ps />
+          </pg>
+          <pg id="20" n="同轴连接器（RF） - 触头" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/同轴连接器（RF）-触头/191" guid="7aab847f-523f-4b9e-94f2-d600e7990cc0">
+            <ps />
+          </pg>
+          <pg id="21" n="同轴连接器（RF） - 适配器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/同轴连接器（RF）-适配器/190" guid="ed6cc822-b6b6-4531-8248-63909f3b414e">
+            <ps />
+          </pg>
+          <pg id="22" n="同轴连接器（RF） - 配件" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/同轴连接器（RF）-配件/189" guid="ce8ffae2-031e-4157-ad1c-53b87cb576d5">
+            <ps />
+          </pg>
+          <pg id="23" n="固态照明连接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/固态照明连接器/4462" guid="8cd5d337-e4d6-4f0a-bb75-8e725c1387d6">
+            <ps />
+          </pg>
+          <pg id="24" n="固态照明连接器 - 配件" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/固态照明连接器-配件/257" guid="141a92f0-5a18-4681-97bd-3ea8a9434de2">
+            <ps />
+          </pg>
+          <pg id="25" n="圆形连接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/圆形连接器/4454" guid="f596bac3-959c-40ee-8528-d5458f4ac373">
+            <ps />
+          </pg>
+          <pg id="26" n="圆形连接器 - 后壳和电缆夹" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/圆形连接器-后壳和电缆夹/185" guid="5643dae3-e3cc-4e48-ae7e-194f0f38345c">
+            <ps />
+          </pg>
+          <pg id="27" n="圆形连接器 - 外壳" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/圆形连接器-外壳/187" guid="4ca66a65-57c7-4ee6-80a7-db089efc8a01">
+            <ps />
+          </pg>
+          <pg id="28" n="圆形连接器 - 触头" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/圆形连接器-触头/186" guid="87cee052-e9a8-4e4a-9a4a-9a2e898a945d">
+            <ps />
+          </pg>
+          <pg id="29" n="圆形连接器 - 适配器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/圆形连接器-适配器/184" guid="3a4e45c4-a0c5-4c84-987c-48074019bc6c">
+            <ps />
+          </pg>
+          <pg id="30" n="圆形连接器 - 配件" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/圆形连接器-配件/183" guid="be2162e0-90c6-40b2-a17b-33a754104209">
+            <ps />
+          </pg>
+          <pg id="31" n="在系列适配器之间" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/在系列适配器之间/167" guid="b386116a-62da-4389-8df2-e623121d0862">
+            <ps />
+          </pg>
+          <pg id="32" n="套管 - 电源连接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/套管-电源连接器/4453" guid="0123bba1-f8ed-4f13-b61a-001cccdd6c55">
+            <ps />
+          </pg>
+          <pg id="33" n="套管 - 配件" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/套管-配件/163" guid="9ede8d7b-b638-4f8e-9854-d95de6771e34">
+            <ps />
+          </pg>
+          <pg id="34" n="套管 - 音频连接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/套管-音频连接器/4452" guid="660bfa81-4f76-4471-b585-e54d87734a09">
+            <ps />
+          </pg>
+          <pg id="35" n="套管 - 音频适配器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/套管-音频适配器/165" guid="36769fdc-73e2-4211-84d8-e2b35ddc2c16">
+            <ps />
+          </pg>
+          <pg id="36" n="存储器连接器 - 直列式模块插座" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/存储器连接器-直列式模块插座/222" guid="52a1d4e3-be3b-4c2c-a184-0e5b9d3dcfa8">
+            <ps />
+          </pg>
+          <pg id="37" n="存储器连接器 - 配件" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/存储器连接器-配件/221" guid="8b14ab18-c627-4bff-b610-bfd516739a96">
+            <ps />
+          </pg>
+          <pg id="38" n="存储器连接器 - PC 卡" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/存储器连接器-PC-卡/224" guid="18bd5870-c8c7-4cde-b5f9-abe1306b13ba">
+            <ps />
+          </pg>
+          <pg id="39" n="存储器连接器 - PC 卡 - 适配器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/存储器连接器-PC-卡-适配器/223" guid="9c97c097-0018-4729-aead-225c173596c2">
+            <ps />
+          </pg>
+          <pg id="40" n="接线 - 触点" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/接线-触点/264" guid="8ef2c5d0-7a46-44ee-9cab-c1ae975d1c67">
+            <ps />
+          </pg>
+          <pg id="41" n="接线座 - 接头，插头和插口" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/接线座-接头-插头和插口/266" guid="3bdcb7f9-a0e1-4442-9618-40d7d2ddb9fd">
+            <ps />
+          </pg>
+          <pg id="42" n="接线座 - 配件" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/接线座-配件/258" guid="9ffd343a-e3ca-468c-8c0c-0e5a4035af7c">
+            <ps />
+          </pg>
+          <pg id="43" n="接线座 - 配件 - 导线金属环" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/接线座-配件-导线金属环/261" guid="23c3e449-9907-449e-8773-94a47b35cb6a">
+            <ps />
+          </pg>
+          <pg id="44" n="接线座 - 配件 - 标记条" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/接线座-配件-标记条/260" guid="f2873d93-06b1-4249-974b-523ec1af24c9">
+            <ps />
+          </pg>
+          <pg id="45" n="接线座 - 配件 - 跳线" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/接线座-配件-跳线/259" guid="8536c1fc-200f-4e0c-ba0b-53465cdc2ad0">
+            <ps />
+          </pg>
+          <pg id="46" n="接线座 - 配电" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/接线座-配电/269" guid="3e41a5c4-7402-4ad7-a5c3-34d862384589">
+            <ps />
+          </pg>
+          <pg id="47" n="接线座 - 隔板块" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/接线座-隔板块/263" guid="560b9e77-d82c-41b2-a034-f0236b9d4113">
+            <ps />
+          </pg>
+          <pg id="48" n="接线座 - Din 轨道，通道" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/接线座-Din-轨道-通道/265" guid="c4cf1ca0-adec-4df2-a7f8-8f36112da908">
+            <ps />
+          </pg>
+          <pg id="49" n="接线条和转动板" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/接线条和转动板/273" guid="ad7ac293-7824-424f-8f5b-90db4541e33f">
+            <ps />
+          </pg>
+          <pg id="50" n="接线板 - 专用" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/接线板-专用/270" guid="0ca962e6-4ecb-42bc-8204-a2f0a3beedda">
+            <ps />
+          </pg>
+          <pg id="51" n="接线板 - 接口模块" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/接线板-接口模块/267" guid="60055181-573d-4825-8d16-9b75d1a60e28">
+            <ps />
+          </pg>
+          <pg id="52" n="接线板 - 线至板" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/接线板-线至板/271" guid="621e1bf1-bade-4832-af88-bfd140cb6903">
+            <ps />
+          </pg>
+          <pg id="53" n="接线板 - 适配器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/接线板-适配器/262" guid="c8dcdc0d-0610-4489-855f-49caef3cbcef">
+            <ps />
+          </pg>
+          <pg id="54" n="接线板 - 面板安装" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/接线板-面板安装/268" guid="466f255b-7d77-469e-a1bf-dc2a43238119">
+            <ps />
+          </pg>
+          <pg id="55" n="插接式连接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/插接式连接器/4461" guid="0093166a-c608-4733-aa1e-c94b970cab18">
+            <ps />
+          </pg>
+          <pg id="56" n="插接式连接器 - 配件" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/插接式连接器-配件/237" guid="43d46115-917b-479d-95ac-a1015cee8b53">
+            <ps />
+          </pg>
+          <pg id="57" n="模块化连接器 - 接线块" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/模块化连接器-接线块/231" guid="193e52e2-fa6e-4580-a0a5-e8600cceac4a">
+            <ps />
+          </pg>
+          <pg id="58" n="模块化连接器 - 接线块 - 配件" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/模块化连接器-接线块-配件/232" guid="38b6dba2-a565-4f5f-9d47-66804bca161d">
+            <ps />
+          </pg>
+          <pg id="59" n="模块化连接器 - 插头" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/模块化连接器-插头/230" guid="1fda6952-d152-4d3c-9c9a-93f736cabdda">
+            <ps />
+          </pg>
+          <pg id="60" n="模块化连接器 - 插头外壳" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/模块化连接器-插头外壳/229" guid="6929c643-d686-446e-a6a5-235ecd3494ca">
+            <ps />
+          </pg>
+          <pg id="61" n="模块化连接器 - 插孔" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/模块化连接器-插孔/227" guid="9bf3228b-261b-4056-94f7-9637f1c33f3b">
+            <ps />
+          </pg>
+          <pg id="62" n="模块化连接器 - 磁性插孔" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/模块化连接器-磁性插孔/228" guid="20cbfce7-4b8e-4428-81f9-95fcd6c55161">
+            <ps />
+          </pg>
+          <pg id="63" n="模块化连接器 - 适配器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/模块化连接器-适配器/226" guid="dbe7549e-6e77-463a-bc27-4c6bcbe53074">
+            <ps />
+          </pg>
+          <pg id="64" n="模块化连接器 - 配件" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/模块化连接器-配件/4460" guid="f253cf8b-f5f8-4a98-ab6e-ed63a0946a14">
+            <ps />
+          </pg>
+          <pg id="65" n="用于 IC 的插座，晶体管" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/用于-IC-的插座-晶体管/253" guid="30231c9b-57ec-4847-9fa0-d1c1f4398935">
+            <ps />
+          </pg>
+          <pg id="66" n="用于 IC 的插座，晶体管 - 适配器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/用于-IC-的插座-晶体管-适配器/255" guid="b1e07179-9c29-4eca-b193-24a83fd2e5e9">
+            <ps />
+          </pg>
+          <pg id="67" n="用于 IC 的插座，晶体管 - 配件" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/用于-IC-的插座-晶体管-配件/254" guid="19196928-4b9b-474e-aa6e-516bd24a0397">
+            <ps />
+          </pg>
+          <pg id="68" n="电源接入连接器 - 进线，出线，模块 - 滤波" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/电源接入连接器-进线-出线-模块-滤波/6437" guid="02846101-9add-469a-aae4-03bdda525472">
+            <ps />
+          </pg>
+          <pg id="69" n="电源接入连接器 - 配件" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/电源接入连接器-配件/238" guid="6b572d60-3f66-4428-ac2e-06491723ebb9">
+            <ps />
+          </pg>
+          <pg id="70" n="电源接入连接器 - 进线，出线，模块 - 未滤波" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/电源接入连接器- 进线-出线-模块 -未滤波/239" guid="65c88a50-2565-429f-8431-c5ecdddd0f08">
+            <ps />
+          </pg>
+          <pg id="71" n="矩形 - 板对板连接器 -  针座，公引脚" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/矩形-板对板连接器-针座-公引脚/175" guid="cd8b9866-6fe0-45b9-83af-15c4f7f77a1a">
+            <ps />
+          </pg>
+          <pg id="72" n="矩形 - 板对板连接器 - 板垫片，堆叠器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/矩形-板对板连接器-板垫片-堆叠器/174" guid="51d8d471-bf99-4e78-b7b3-8d89c9b7a1bd">
+            <ps />
+          </pg>
+          <pg id="73" n="矩形 - 板对板连接器 - 配件" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/矩形-板对板连接器-配件/172" guid="2bf3be3e-5063-4850-b246-66ebe0e5b1da">
+            <ps />
+          </pg>
+          <pg id="74" n="矩形 - 板对板连接器 - 针座，插座，母插口" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/矩形-板对板连接器-针座-插座-母插口/176" guid="d631101c-d0b8-40de-894d-958a0cea2850">
+            <ps />
+          </pg>
+          <pg id="75" n="矩形 - 板对板连接器 - 阵列，边缘型，夹层式" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/矩形-板对板连接器-阵列-边缘型-夹层式/173" guid="182ab4a2-ebff-4353-be80-e5eb731eebe9">
+            <ps />
+          </pg>
+          <pg id="76" n="矩形连接器 - 外壳" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/矩形连接器-外壳/248" guid="5c77f443-41c3-4850-9eb6-ee39e89aa3c5">
+            <ps />
+          </pg>
+          <pg id="77" n="矩形连接器 - 弹簧式" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/矩形连接器-弹簧式/249" guid="5f30ff3b-3e19-4aae-9566-8949385f1529">
+            <ps />
+          </pg>
+          <pg id="78" n="矩形连接器 - 板载，直接线对板" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/矩形连接器-板载-直接线对板/242" guid="db0d636e-9be8-4282-99c6-bdee7b62d336">
+            <ps />
+          </pg>
+          <pg id="79" n="矩形连接器 - 自由悬挂，面板安装" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/矩形连接器-自由悬挂-面板安装/244" guid="3659c783-3a71-46c3-99ea-5bbb138ac242">
+            <ps />
+          </pg>
+          <pg id="80" n="矩形连接器 - 触头" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/矩形连接器-触头/243" guid="5fd2f0a1-ebf5-4fe8-b132-5c93317c3572">
+            <ps />
+          </pg>
+          <pg id="81" n="矩形连接器 - 适配器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/矩形连接器-适配器/241" guid="2ce4cdf2-d521-4065-8ec7-de2dc860af52">
+            <ps />
+          </pg>
+          <pg id="82" n="矩形连接器 - 配件" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/矩形连接器-配件/240" guid="f22dc70a-4fc3-49b8-ace3-3fd23602152b">
+            <ps />
+          </pg>
+          <pg id="83" n="矩形连接器 - 针座，专用引脚" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/矩形连接器-针座-专用引脚/247" guid="2d3cd47f-945a-4eed-ac6c-646c6a9125dd">
+            <ps />
+          </pg>
+          <pg id="84" n="矩形连接器 - 针座，公插针" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/矩形连接器-针座-公插针/245" guid="5c26b45c-6cc1-48cb-b74d-19954c4bd41c">
+            <ps />
+          </pg>
+          <pg id="85" n="矩形连接器 - 针座，插座，母插口" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/矩形连接器-针座-插座-母插口/246" guid="2d3f7fc9-c4e1-43c1-9b5c-4f02cbadff6d">
+            <ps />
+          </pg>
+          <pg id="86" n="端子 - 专用连接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/端子-专用连接器/290" guid="3dd9efed-c8ca-45a6-b539-a87dc515cd0f">
+            <ps />
+          </pg>
+          <pg id="87" n="端子 - 刀式连接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/端子-刀式连接器/279" guid="eba7d065-bcfd-4bbc-acd2-392668f5096d">
+            <ps />
+          </pg>
+          <pg id="88" n="端子 - 外壳，套" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/端子-外壳-套/278" guid="7a1e8a10-ed5b-4c5f-9204-be64d3c99759">
+            <ps />
+          </pg>
+          <pg id="89" n="端子 - 套管，子弹式连接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/端子-套管-子弹式连接器/276" guid="d1cc3c0e-ecdd-4de8-90f5-6712da35045c">
+            <ps />
+          </pg>
+          <pg id="90" n="端子 - 快速连接，快速断开连接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/端子-快速连接-快速断开连接器/283" guid="3312e427-92cb-49af-86d7-d6157c28a8a6">
+            <ps />
+          </pg>
+          <pg id="91" n="端子 - 焊片连接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/端子-焊片连接器/288" guid="534c4669-96bd-4b78-833f-581a68716179">
+            <ps />
+          </pg>
+          <pg id="92" n="端子 - 环形连接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/端子-环形连接器/285" guid="a1d7fb37-2dbc-427c-9b5e-2e67872eec88">
+            <ps />
+          </pg>
+          <pg id="93" n="端子 - 电线引脚连接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/端子-电线引脚连接器/292" guid="0fe08166-4884-4f6c-a8f1-31ee4e79326f">
+            <ps />
+          </pg>
+          <pg id="94" n="端子 - 电线接头连接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/端子-电线接头连接器/293" guid="3bd2a604-4b80-434c-b7c0-3f846fc8d152">
+            <ps />
+          </pg>
+          <pg id="95" n="端子 - 矩形连接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/端子-矩形连接器/284" guid="ec1e9708-70bf-4afa-858a-09c7a52759c8">
+            <ps />
+          </pg>
+          <pg id="96" n="端子 - 磁线连接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/端子-磁线连接器/280" guid="b195d6e8-60cf-4b68-96ce-e6b10820f7cb">
+            <ps />
+          </pg>
+          <pg id="97" n="端子 - 箔片连接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/端子-箔片连接器/277" guid="3142caea-56a2-4142-b2ca-292bcaad362b">
+            <ps />
+          </pg>
+          <pg id="98" n="端子 - 线对板连接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/端子-线对板连接器/294" guid="46f76c73-14e6-4023-b899-88b8a70d5f32">
+            <ps />
+          </pg>
+          <pg id="99" n="端子 - 螺纹连接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/端子-螺纹连接器/286" guid="0562318c-5812-4ee9-a47c-eae22f542f6f">
+            <ps />
+          </pg>
+          <pg id="100" n="端子 - 转塔连接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/端子-转塔连接器/291" guid="16fb647a-b704-4ce1-90b7-e2c73dd86a6b">
+            <ps />
+          </pg>
+          <pg id="101" n="端子 - 适配器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/端子-适配器/275" guid="49b9c462-040e-477f-bc1f-5f05a84004f6">
+            <ps />
+          </pg>
+          <pg id="102" n="端子 - 配件" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/端子-配件/274" guid="4902e3fd-1e18-4e2e-a24c-9a93d5d394f4">
+            <ps />
+          </pg>
+          <pg id="103" n="端子 - 铲形连接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/端子-铲形连接器/289" guid="78aa028a-2f5f-4a5d-ba62-07ebffbb90b1">
+            <ps />
+          </pg>
+          <pg id="104" n="端子 - PC 引脚插座，插座连接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/端子-PC-引脚插座-插座连接器/281" guid="8bd769d9-5d30-4aa9-9d13-330973d334f9">
+            <ps />
+          </pg>
+          <pg id="105" n="端子 - PC 引脚，单接线柱连接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/端子-PC-引脚-单接线柱连接器/282" guid="e0d23f5d-7a96-4e5b-a918-84526c5d8fdf">
+            <ps />
+          </pg>
+          <pg id="106" n="端子接线盒系统" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/端子接线盒系统/272" guid="6b1fe5c7-266f-4aac-a04a-783f663689e0">
+            <ps />
+          </pg>
+          <pg id="107" n="背板连接器 - 专用" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/背板连接器-专用/158" guid="859a8538-3c82-42b9-9f23-5612dd5d0837">
+            <ps />
+          </pg>
+          <pg id="108" n="背板连接器 - 外壳" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/背板连接器-外壳/157" guid="c89c927a-20b3-40f1-8c13-e4876117f871">
+            <ps />
+          </pg>
+          <pg id="109" n="背板连接器 - 触头" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/背板连接器-触头/154" guid="78d4dec4-ccb6-4f9b-a551-97a8a0fedd8e">
+            <ps />
+          </pg>
+          <pg id="110" n="背板连接器 - 配件" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/背板连接器-配件/151" guid="7cc4f9d2-3663-40a4-b20e-eac9abfd2b46">
+            <ps />
+          </pg>
+          <pg id="111" n="背板连接器 - ARINC" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/背板连接器-ARINC/152" guid="5a5a28c4-7be4-4c64-b9c0-fe6fa0e23421">
+            <ps />
+          </pg>
+          <pg id="112" n="背板连接器 - Hard Metric，标准" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/背板连接器-Hard-Metric-标准/156" guid="f517fc92-f606-4e2a-9149-f32170919f02">
+            <ps />
+          </pg>
+          <pg id="113" n="背板连接器 - DIN 41612" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/背板连接器 -DIN-41612/155" guid="034dee5c-bde9-4bb8-a147-39e00ead5cbc">
+            <ps />
+          </pg>
+          <pg id="114" n="触头 - 引线框" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/触头-引线框/193" guid="b6294cad-b0e6-4476-a021-e5efc282becd">
+            <ps />
+          </pg>
+          <pg id="115" n="触点 - 多用途" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/触点-多用途/194" guid="11aedac2-9c8f-4351-9ced-0d8d4375797f">
+            <ps />
+          </pg>
+          <pg id="116" n="连接器，弹簧加载和压力" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/连接器-弹簧加载和压力/195" guid="d7b3ee5f-f39d-4ccb-b051-eda2e26a37b5">
+            <ps />
+          </pg>
+          <pg id="117" n="重载连接器 - 外壳，盖罩，基底" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/重载连接器-外壳-盖罩-基底/215" guid="393c0eee-fa30-4ba1-b5dd-8c7a1fdda912">
+            <ps />
+          </pg>
+          <pg id="118" n="重载连接器 - 插件，模块" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/重载连接器-插件-模块/216" guid="b485c774-efe6-40d8-a6f5-c9bb99f19c24">
+            <ps />
+          </pg>
+          <pg id="119" n="重载连接器 - 框架" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/重载连接器-框架/214" guid="ea977172-96f4-461f-81ce-7e92b105a2ca">
+            <ps />
+          </pg>
+          <pg id="120" n="重载连接器 - 组件" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/重载连接器-组件/212" guid="2214605c-3f70-46f3-bd07-92f40973ff11">
+            <ps />
+          </pg>
+          <pg id="121" n="重载连接器 - 触头" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/重载连接器-触头/213" guid="be7f658a-7169-4f3f-ab2d-2c8f27bedc81">
+            <ps />
+          </pg>
+          <pg id="122" n="重载连接器 - 配件" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/重载连接器-配件/211" guid="f2c59631-f1bc-4566-a672-971bafce8425">
+            <ps />
+          </pg>
+          <pg id="123" n="香蕉和尖头连接器 - 接线柱" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/香蕉和尖头连接器-接线柱/161" guid="56d1c82f-eebd-4b35-94de-9b8a058fae1e">
+            <ps />
+          </pg>
+          <pg id="124" n="香蕉和尖头连接器 - 插孔，插头" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/香蕉和尖头连接器-插孔-插头/162" guid="4ec33dd4-e157-478f-a045-0372e0e51368">
+            <ps />
+          </pg>
+          <pg id="125" n="香蕉和尖头连接器 - 适配器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/香蕉和尖头连接器-适配器/160" guid="6dcc7a2e-2171-4821-b905-185d08db42dc">
+            <ps />
+          </pg>
+          <pg id="126" n="香蕉和尖头连接器 - 配件" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/香蕉和尖头连接器-配件/159" guid="bb820d09-fdce-4110-b85a-0b816c4c3c7a">
+            <ps />
+          </pg>
+          <pg id="127" n="D 形连接器 - 并口" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/D-形连接器-并口/4456" guid="df47dd52-4254-4d37-b6b9-d6b26b19ea60">
+            <ps />
+          </pg>
+          <pg id="128" n="D-Sub 连接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/D-Sub-连接器/4457" guid="7941d9ed-0774-46d7-9dff-14410036586e">
+            <ps />
+          </pg>
+          <pg id="129" n="D-Sub，D 形连接器 - 后壳，罩" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/D-Sub-D-形连接器-后壳-罩/200" guid="eb7b7a89-4b69-4443-a945-d73ca6f49ecc">
+            <ps />
+          </pg>
+          <pg id="130" n="D-Sub，D 形连接器 - 外壳" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/D-Sub-D-形连接器-外壳/202" guid="666031cb-a752-44bf-a7c7-51cef3619e42">
+            <ps />
+          </pg>
+          <pg id="131" n="D-Sub，D 形连接器 - 端接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/D-Sub-D-形连接器-端接器/203" guid="d5cd1694-1c39-4f28-910a-356df0ce3903">
+            <ps />
+          </pg>
+          <pg id="132" n="D-Sub，D 形连接器 - 触头" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/D-Sub-D-形连接器-触头/201" guid="7a84dc67-6853-4109-840d-4edbf4a2eafc">
+            <ps />
+          </pg>
+          <pg id="133" n="D-Sub，D 形连接器 - 适配器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/D-Sub-D-形连接器-适配器/199" guid="cd936d36-30b4-43e8-827c-fb101086db70">
+            <ps />
+          </pg>
+          <pg id="134" n="D-Sub，D 形连接器 - 配件" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/D-Sub-D-形连接器-配件/198" guid="4d4674dd-3b68-4a16-a026-fcb53a45e0db">
+            <ps />
+          </pg>
+          <pg id="135" n="FFC，FPC（扁平柔性）连接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/FFC-FPC（扁平柔性）连接器/205" guid="c19f058a-1ce3-437a-93a6-133a8bb713c3">
+            <ps />
+          </pg>
+          <pg id="136" n="FFC，FPC（扁平柔性）连接器 - 外壳" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/FFC-FPC（扁平柔性）连接器-外壳/206" guid="413abbee-8d74-4005-8bb8-125b48f5f834">
+            <ps />
+          </pg>
+          <pg id="137" n="FFC，FPC（扁平柔性）连接器 - 触头" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/FFC-FPC（扁平柔性）连接器-触头/207" guid="7974edaf-c9b7-4e29-a4b6-e3ec7b9a44b4">
+            <ps />
+          </pg>
+          <pg id="138" n="FFC，FPC（扁平柔性）连接器 - 配件" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/FFC-FPC（扁平柔性）连接器-配件/204" guid="67b00270-3a72-445c-82bd-68e9fd8e528a">
+            <ps />
+          </pg>
+          <pg id="139" n="Keystone - 插件" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/Keystone-插件/219" guid="c6223b6e-496f-4a1a-8664-132b17d774b7">
+            <ps />
+          </pg>
+          <pg id="140" n="Keystone - 配件" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/Keystone-配件/217" guid="baf4a56c-00d8-49e3-b813-b5bc0cac925d">
+            <ps />
+          </pg>
+          <pg id="141" n="Keystone - 面板，框架" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/Keystone-面板-框架/218" guid="0753fb09-c0f8-4f33-a9fd-fe91db9edcda">
+            <ps />
+          </pg>
+          <pg id="142" n="LGH 连接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/LGH-连接器/4459" guid="ed03676a-e806-457e-b427-b59b3f2c7552">
+            <ps />
+          </pg>
+          <pg id="143" n="USB，DVI，HDMI 连接器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/USB-DVI-HDMI-连接器/295" guid="dd5c28b4-3b67-480c-b6c3-724220e3405e">
+            <ps />
+          </pg>
+          <pg id="144" n="USB，DVI，HDMI 连接器 - 适配器" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/USB-DVI-HDMI-连接器-适配器/297" guid="0e9813b9-6312-45ee-a696-f40932faa1ee">
+            <ps />
+          </pg>
+          <pg id="145" n="USB，DVI，HDMI 连接器 - 配件" url="http://www.digikey.com.cn/search/zh/连接器-互连器件/USB-DVI-HDMI-连接器-配件/296" guid="ac2f3217-a381-4c68-a759-d9d53dd89b4b">
+            <ps />
+          </pg>
+        </pgs>
+      </wgt>
+    </wgts>
+  </cat>
+</r>

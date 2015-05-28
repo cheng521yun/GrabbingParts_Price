@@ -1,0 +1,876 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<r>
+  <cat id="Category1" n="半导体产品" guid="f67ea7ed-bbbd-4f2e-9ce9-247a0a616563">
+    <wgts>
+      <wgt id="1" n="传感器，变送器" url="http://www.digikey.com.cn/search/zh/传感器-变送器/729" guid="455e1bb6-0e88-47e5-8164-581344cf5121">
+        <pgs>
+          <pg id="1" n="专用传感器" url="http://www.digikey.com.cn/search/zh/传感器-变送器/专用传感器/4494" guid="e30607a7-d971-42ec-9762-6e64d241a1b0">
+            <ps />
+          </pg>
+          <pg id="2" n="位置传感器 - 角，线性位置测量" url="http://www.digikey.com.cn/search/zh/传感器-变送器/位置传感器-角-线性位置测量/733" guid="446d136e-512b-42fa-97c6-1b1b8e52df67">
+            <ps />
+          </pg>
+          <pg id="3" n="倾斜仪" url="http://www.digikey.com.cn/search/zh/传感器-变送器/倾斜仪/746" guid="e90e8180-5942-4d96-9449-1320d1fd55b2">
+            <ps />
+          </pg>
+          <pg id="4" n="倾斜传感器" url="http://www.digikey.com.cn/search/zh/传感器-变送器/倾斜传感器/781" guid="6d232539-e1b3-4fbe-803c-f41c0d662b9e">
+            <ps />
+          </pg>
+          <pg id="5" n="光传感器  - 光电，工业" url="http://www.digikey.com.cn/search/zh/传感器-变送器/光传感器 -光电-工业/4522" guid="e15fb3d4-0734-4f7a-b48d-5e3e28146c94">
+            <ps />
+          </pg>
+          <pg id="6" n="光学传感器 - 光断续器 - 槽型 - 晶体管输出" url="http://www.digikey.com.cn/search/zh/传感器-变送器/光学传感器-光断续器-槽型-晶体管输出/767" guid="b82fdca7-8454-4efc-8445-d746ab723ee7">
+            <ps />
+          </pg>
+          <pg id="7" n="光学传感器 - 光断续器 - 槽型 - 逻辑输出" url="http://www.digikey.com.cn/search/zh/传感器-变送器/光学传感器-光断续器-槽型-逻辑输出/766" guid="5dfcf869-e932-4b75-9f52-69b5aa475c51">
+            <ps />
+          </pg>
+          <pg id="8" n="光学传感器 - 光电检测器 - 逻辑输出" url="http://www.digikey.com.cn/search/zh/传感器-变送器/光学传感器-光电检测器-逻辑输出/762" guid="e7d6fb6d-9382-4194-9036-451d1a0adccd">
+            <ps />
+          </pg>
+          <pg id="9" n="光学传感器 - 光电检测器 - 遥控接收器" url="http://www.digikey.com.cn/search/zh/传感器-变送器/光学传感器-光电检测器-遥控接收器/765" guid="5ad366d1-73e4-4150-a141-c3db701dfacc">
+            <ps />
+          </pg>
+          <pg id="10" n="光学传感器 - 光电检测器 - CdS 单元" url="http://www.digikey.com.cn/search/zh/传感器-变送器/光学传感器-光电检测器- CdS-单元/761" guid="b4e1ad75-342d-4a29-9ff7-83e02a57cf52">
+            <ps />
+          </pg>
+          <pg id="11" n="光学传感器 - 反射式 - 模拟输出" url="http://www.digikey.com.cn/search/zh/传感器-变送器/光学传感器-反射式-模拟输出/768" guid="80a2066b-e3f8-4777-b576-e64eae68062e">
+            <ps />
+          </pg>
+          <pg id="12" n="光学传感器 - 反射式 - 逻辑输出" url="http://www.digikey.com.cn/search/zh/传感器-变送器/光学传感器-反射式-逻辑输出/769" guid="453e5eb0-0724-48e8-b368-b68b8f460e01">
+            <ps />
+          </pg>
+          <pg id="13" n="光学传感器 - 测距" url="http://www.digikey.com.cn/search/zh/传感器-变送器/光学传感器-测距/757" guid="916d8b65-4c34-4b1f-b95e-a18e80e7e915">
+            <ps />
+          </pg>
+          <pg id="14" n="光学传感器 - 环境光，IR，UV 传感器" url="http://www.digikey.com.cn/search/zh/传感器-变送器/光学传感器-环境光-IR-UV-传感器/760" guid="77c01090-4ffb-4c85-b45c-28774c224a9d">
+            <ps />
+          </pg>
+          <pg id="15" n="光学传感器 - 鼠标" url="http://www.digikey.com.cn/search/zh/传感器-变送器/光学传感器-鼠标/759" guid="8012ef8a-1069-4605-bcc0-8fa4f8877c0a">
+            <ps />
+          </pg>
+          <pg id="16" n="光学传感器 - 光电二极管" url="http://www.digikey.com.cn/search/zh/传感器-变送器/光学传感器- 光电二极管/763" guid="ea0fdd5f-336a-486a-848d-0e5766906ecf">
+            <ps />
+          </pg>
+          <pg id="17" n="光学传感器 - 光电晶体管" url="http://www.digikey.com.cn/search/zh/传感器-变送器/光学传感器- 光电晶体管/764" guid="2ba90dea-5dcf-4857-a84a-16bcd6270a09">
+            <ps />
+          </pg>
+          <pg id="18" n="冲击传感器" url="http://www.digikey.com.cn/search/zh/传感器-变送器/冲击传感器/773" guid="9c7ad84e-c3c5-4fd8-ac90-785e45d969b0">
+            <ps />
+          </pg>
+          <pg id="19" n="力传感器" url="http://www.digikey.com.cn/search/zh/传感器-变送器/力传感器/741" guid="ab0c2876-f8bf-41eb-add6-2aa7c1e79375">
+            <ps />
+          </pg>
+          <pg id="20" n="加速计" url="http://www.digikey.com.cn/search/zh/传感器-变送器/加速计/730" guid="60e74cf9-548c-476b-9ad0-c08a391dd927">
+            <ps />
+          </pg>
+          <pg id="21" n="压力传感器，变送器" url="http://www.digikey.com.cn/search/zh/传感器-变送器/压力传感器-变送器/770" guid="16112727-4486-469e-9d0c-40bb02bb6a92">
+            <ps />
+          </pg>
+          <pg id="22" n="图像传感器，相机" url="http://www.digikey.com.cn/search/zh/传感器-变送器/图像传感器-相机/745" guid="40ca6cfe-1033-42bb-b49a-77a0b4609f2e">
+            <ps />
+          </pg>
+          <pg id="23" n="多功能" url="http://www.digikey.com.cn/search/zh/传感器-变送器/多功能/755" guid="1be97987-55db-4229-80cd-f84d2137cd0a">
+            <ps />
+          </pg>
+          <pg id="24" n="太阳能电池" url="http://www.digikey.com.cn/search/zh/传感器-变送器/太阳能电池/774" guid="6b5d2c0c-feb5-4ace-8662-f6f0f21a196b">
+            <ps />
+          </pg>
+          <pg id="25" n="应力计" url="http://www.digikey.com.cn/search/zh/传感器-变送器/应力计/776" guid="af5a3585-46b6-40ae-8eb9-dcd0ad75ce27">
+            <ps />
+          </pg>
+          <pg id="26" n="弯曲传感器" url="http://www.digikey.com.cn/search/zh/传感器-变送器/弯曲传感器/738" guid="afe24f49-cd7b-4583-8eed-641df51983e8" onepart="1">
+            <ps />
+          </pg>
+          <pg id="27" n="接近传感器" url="http://www.digikey.com.cn/search/zh/传感器-变送器/接近传感器/771" guid="afdeb62e-90bf-4dd6-891b-1d7c9ce8624c">
+            <ps />
+          </pg>
+          <pg id="28" n="接近/占位传感器 - 成品" url="http://www.digikey.com.cn/search/zh/传感器-变送器/接近-占位传感器-成品/6458" guid="961371dd-341f-437f-9759-a83fe5ae9664">
+            <ps />
+          </pg>
+          <pg id="29" n="放大器" url="http://www.digikey.com.cn/search/zh/传感器-变送器/放大器/732" guid="36761b55-c7d7-46c5-a021-0412a22ee8a0">
+            <ps />
+          </pg>
+          <pg id="30" n="气体传感器" url="http://www.digikey.com.cn/search/zh/传感器-变送器/气体传感器/742" guid="1d6ca09f-d6cd-4e05-9562-0315c53afc67">
+            <ps />
+          </pg>
+          <pg id="31" n="水分传感器，湿度" url="http://www.digikey.com.cn/search/zh/传感器-变送器/水分传感器-湿度/744" guid="adbc0891-b1c2-4123-b54b-68fa8cc3a36f">
+            <ps />
+          </pg>
+          <pg id="32" n="流量传感器" url="http://www.digikey.com.cn/search/zh/传感器-变送器/流量传感器/740" guid="51fcfd9f-9457-48ae-b25a-45646322b60b">
+            <ps />
+          </pg>
+          <pg id="33" n="浮子，液位传感器" url="http://www.digikey.com.cn/search/zh/传感器-变送器/浮子-液位传感器/739" guid="ca6cb908-b748-43af-86b3-16ce5b440483">
+            <ps />
+          </pg>
+          <pg id="34" n="温度传感器，变送器" url="http://www.digikey.com.cn/search/zh/传感器-变送器/温度传感器-变送器/777" guid="3f91328f-8023-4b4c-9c75-52b4faf39353">
+            <ps />
+          </pg>
+          <pg id="35" n="温度开关" url="http://www.digikey.com.cn/search/zh/传感器-变送器/温度开关/6648" guid="c13e7018-ebeb-4e91-8f80-eecbc9ce231a">
+            <ps />
+          </pg>
+          <pg id="36" n="温度调节器" url="http://www.digikey.com.cn/search/zh/传感器-变送器/温度调节器/4614" guid="f426deac-f9bb-4522-9929-94a42849425b">
+            <ps />
+          </pg>
+          <pg id="37" n="灰尘传感器" url="http://www.digikey.com.cn/search/zh/传感器-变送器/灰尘传感器/736" guid="bfb8324d-97aa-4506-95b4-0d80f73d43dc">
+            <ps />
+          </pg>
+          <pg id="38" n="热敏电阻 - PTC" url="http://www.digikey.com.cn/search/zh/传感器-变送器/热敏电阻-PTC/780" guid="91315aa5-a5ff-46fc-9284-a03fc3df5ad5">
+            <ps />
+          </pg>
+          <pg id="39" n="热敏电阻 - NTC" url="http://www.digikey.com.cn/search/zh/传感器-变送器/热敏电阻- NTC/779" guid="296e73ee-f928-4801-964c-927360241082">
+            <ps />
+          </pg>
+          <pg id="40" n="热电偶，温度探头" url="http://www.digikey.com.cn/search/zh/传感器-变送器/热电偶-温度探头/778" guid="f92efdc3-f892-4112-8414-47ad91aac231">
+            <ps />
+          </pg>
+          <pg id="41" n="电容式触摸传感器，接近传感器 IC" url="http://www.digikey.com.cn/search/zh/传感器-变送器/电容式触摸传感器-接近传感器-IC/4380" guid="7213fb76-2d53-4993-9062-337617302cef">
+            <ps />
+          </pg>
+          <pg id="42" n="电流变送器" url="http://www.digikey.com.cn/search/zh/传感器-变送器/电流变送器/735" guid="32165cde-4507-4220-94e5-4405f06e4904">
+            <ps />
+          </pg>
+          <pg id="43" n="磁体" url="http://www.digikey.com.cn/search/zh/传感器-变送器/磁体/752" guid="3b7eaa18-6753-4696-8b65-32d1d0e01479">
+            <ps />
+          </pg>
+          <pg id="44" n="磁性传感器 - 位置，接近，速度（模块）" url="http://www.digikey.com.cn/search/zh/传感器-变送器/磁性传感器-位置-接近-速度（模块）/751" guid="0e05b159-917a-4b09-96cf-f492c5bcef87">
+            <ps />
+          </pg>
+          <pg id="45" n="磁性传感器 - 罗盘，磁场（模块）" url="http://www.digikey.com.cn/search/zh/传感器-变送器/磁性传感器-罗盘-磁场（模块）/749" guid="4a5b2652-4397-4b20-b505-0681ca1b1890">
+            <ps />
+          </pg>
+          <pg id="46" n="磁性传感器 - 霍尔效应，数字开关，线性，罗盘（IC）" url="http://www.digikey.com.cn/search/zh/传感器-变送器/磁性传感器-霍尔效应-数字开关-线性-罗盘（IC）/750" guid="a8b22ec7-8c4b-4f78-b1d5-536d589a94d6">
+            <ps />
+          </pg>
+          <pg id="47" n="编码器" url="http://www.digikey.com.cn/search/zh/传感器-变送器/编码器/737" guid="3ff35bcc-ac1b-4776-b8fe-a09df2f93572">
+            <ps />
+          </pg>
+          <pg id="48" n="超声波接收器/发射器" url="http://www.digikey.com.cn/search/zh/传感器-变送器/超声波接收器-发射器/783" guid="a222cfc6-3d29-4f6a-8edf-8987ee86ee72">
+            <ps />
+          </pg>
+          <pg id="49" n="运动传感器，检测器" url="http://www.digikey.com.cn/search/zh/传感器-变送器/运动传感器-检测器/754" guid="ac1889d6-9144-43c3-a1d8-19006880e06a">
+            <ps />
+          </pg>
+          <pg id="50" n="配件" url="http://www.digikey.com.cn/search/zh/传感器-变送器/配件/731" guid="409a4a87-e278-4e1f-a468-ba33cfa3be22">
+            <ps />
+          </pg>
+          <pg id="51" n="陀螺仪" url="http://www.digikey.com.cn/search/zh/传感器-变送器/陀螺仪/743" guid="9f18b3ed-c35e-4834-9156-333a38bb508c">
+            <ps />
+          </pg>
+          <pg id="52" n="震动传感器" url="http://www.digikey.com.cn/search/zh/传感器-变送器/震动传感器/784" guid="a5a6b4b6-b1e1-45a8-b56e-b248889e6f7b">
+            <ps />
+          </pg>
+          <pg id="53" n="颜色传感器" url="http://www.digikey.com.cn/search/zh/传感器-变送器/颜色传感器/734" guid="53d6d061-1805-4a96-9352-64e48bb5f174">
+            <ps />
+          </pg>
+          <pg id="54" n="IrDA 收发器模块" url="http://www.digikey.com.cn/search/zh/传感器-变送器/IrDA-收发器模块/758" guid="64717da6-9274-4853-b0d5-95ee73652731">
+            <ps />
+          </pg>
+          <pg id="55" n="LVDT 变送器（线性可变差动变压器）" url="http://www.digikey.com.cn/search/zh/传感器-变送器/LVDT-变送器（线性可变差动变压器）/748" guid="b22dfcad-2961-4be6-a59a-291cba74c9e7">
+            <ps />
+          </pg>
+          <pg id="56" n="RTD - 电阻温度检测器" url="http://www.digikey.com.cn/search/zh/传感器-变送器/RTD-电阻温度检测器/772" guid="0ed590c7-bdaa-4db1-a5aa-b284d8383761">
+            <ps />
+          </pg>
+        </pgs>
+      </wgt>
+      <wgt id="2" n="分立半导体产品" url="http://www.digikey.com.cn/search/zh/分立半导体产品/306" guid="3929ddf9-e6ea-4663-a059-3fedbf7885aa">
+        <pgs>
+          <pg id="1" n="二极管，整流器 - 模块" url="http://www.digikey.com.cn/search/zh/分立半导体产品/二极管-整流器-模块/2251" guid="17c7e794-608b-4e31-ae3b-9a2d77a40348">
+            <ps />
+          </pg>
+          <pg id="2" n="二极管，整流器 - 阵列" url="http://www.digikey.com.cn/search/zh/分立半导体产品/二极管-整流器-阵列/312" guid="3f5b4426-61b4-4274-af28-e0bcde619a5f">
+            <ps />
+          </pg>
+          <pg id="3" n="二极管/齐纳阵列" url="http://www.digikey.com.cn/search/zh/分立半导体产品/二极管-齐纳阵列/310" guid="9e965c4e-5375-4216-b24a-6c63e2f26926">
+            <ps />
+          </pg>
+          <pg id="4" n="二端交流开关元件，硅对称二端开关元件" url="http://www.digikey.com.cn/search/zh/分立半导体产品/二端交流开关元件-硅对称二端开关元件/309" guid="e39e06a7-41ea-4a87-8206-85289a125f92">
+            <ps />
+          </pg>
+          <pg id="5" n="功率驱动器 - 模块" url="http://www.digikey.com.cn/search/zh/分立半导体产品/功率驱动器-模块/4615" guid="c446eedb-67d6-4a8e-b8c8-7ff1c9033e65">
+            <ps />
+          </pg>
+          <pg id="6" n="单二极管/整流器" url="http://www.digikey.com.cn/search/zh/分立半导体产品/单二极管-整流器/313" guid="5ae45e07-8e4a-4db9-ad26-8a73c832cfb1">
+            <ps />
+          </pg>
+          <pg id="7" n="单二极管/齐纳" url="http://www.digikey.com.cn/search/zh/分立半导体产品/单二极管-齐纳/311" guid="e760a5c1-92e3-4190-a9fb-7ed3d020e8d6">
+            <ps />
+          </pg>
+          <pg id="8" n="双向可控硅" url="http://www.digikey.com.cn/search/zh/分立半导体产品/双向可控硅/4616" guid="7caac93c-acc6-48a3-b386-574a87565382">
+            <ps />
+          </pg>
+          <pg id="9" n="双向可控硅 - 模块" url="http://www.digikey.com.cn/search/zh/分立半导体产品/双向可控硅-模块/330" guid="64d26cb5-46a1-4212-9051-2f6e600395a2">
+            <ps />
+          </pg>
+          <pg id="10" n="可变电容二极管（可变电容二极管，变容二极管）" url="http://www.digikey.com.cn/search/zh/分立半导体产品/可变电容二极管（可变电容二极管-变容二极管）/331" guid="b983df52-33dc-48fd-8e8b-2947d6a4d59f">
+            <ps />
+          </pg>
+          <pg id="11" n="可编程单结晶体管（PUT）" url="http://www.digikey.com.cn/search/zh/分立半导体产品/可编程单结晶体管（PUT）/319" guid="a4ef13ab-57de-4fb8-bf40-9237bda7a174">
+            <ps />
+          </pg>
+          <pg id="12" n="晶体管 - 专用型" url="http://www.digikey.com.cn/search/zh/分立半导体产品/晶体管-专用型/329" guid="a3e5d916-010c-4663-80e4-87e9f4a41a58">
+            <ps />
+          </pg>
+          <pg id="13" n="晶体管 - 模块" url="http://www.digikey.com.cn/search/zh/分立半导体产品/晶体管 -模块/2455" guid="69cf02fa-f414-464e-a440-20a793de2bbf">
+            <ps />
+          </pg>
+          <pg id="14" n="晶体管（BJT） - 单路" url="http://www.digikey.com.cn/search/zh/分立半导体产品/晶体管（BJT）-单路/327" guid="9e952cd6-b4cb-4b31-a54d-e638adf2a8d3">
+            <ps />
+          </pg>
+          <pg id="15" n="晶体管（BJT） - 单路﹐预偏压式" url="http://www.digikey.com.cn/search/zh/分立半导体产品/晶体管（BJT）-单路﹐预偏压式/328" guid="32d9676a-0e2c-47d8-814b-13a339582ec6">
+            <ps />
+          </pg>
+          <pg id="16" n="晶体管（BJT） - 阵列" url="http://www.digikey.com.cn/search/zh/分立半导体产品/晶体管（BJT）-阵列/325" guid="a01df074-435d-4a3f-ad8e-df235fa5a73c">
+            <ps />
+          </pg>
+          <pg id="17" n="晶体管（BJT） - 阵列﹐预偏压式" url="http://www.digikey.com.cn/search/zh/分立半导体产品/晶体管（BJT）-阵列﹐预偏压式/326" guid="db08fd66-cd90-48ef-bce9-639b22ed5d37">
+            <ps />
+          </pg>
+          <pg id="18" n="桥式整流器" url="http://www.digikey.com.cn/search/zh/分立半导体产品/桥式整流器/4617" guid="95aaa4ee-6269-4079-8c49-87a392a49ad5">
+            <ps />
+          </pg>
+          <pg id="19" n="桥式整流器 - 模块" url="http://www.digikey.com.cn/search/zh/分立半导体产品/桥式整流器-模块/308" guid="fa5cb91f-7f7b-473a-8fd9-644918800fd7">
+            <ps />
+          </pg>
+          <pg id="20" n="配件" url="http://www.digikey.com.cn/search/zh/分立半导体产品/配件/307" guid="1ed6008d-48af-4739-835f-42dc15867d79">
+            <ps />
+          </pg>
+          <pg id="21" n="FET - 单" url="http://www.digikey.com.cn/search/zh/分立半导体产品/FET-单/315" guid="a2ab7cb2-2b13-456e-a758-6f5ccf8edb78">
+            <ps />
+          </pg>
+          <pg id="22" n="FET - 模块" url="http://www.digikey.com.cn/search/zh/分立半导体产品/FET-模块/4575" guid="d9f06c42-2210-414c-ab36-a5089724f1c0">
+            <ps />
+          </pg>
+          <pg id="23" n="FET - 阵列" url="http://www.digikey.com.cn/search/zh/分立半导体产品/FET-阵列/314" guid="e88cd8f9-ba40-4273-aa2d-95be092bf3f3">
+            <ps />
+          </pg>
+          <pg id="24" n="IGBT - 单路" url="http://www.digikey.com.cn/search/zh/分立半导体产品/IGBT-单路/317" guid="7a67b178-2d8e-462b-a069-e50e453a0ba6">
+            <ps />
+          </pg>
+          <pg id="25" n="IGBT - 模块" url="http://www.digikey.com.cn/search/zh/分立半导体产品/IGBT-模块/4618" guid="3922d0da-db0e-476b-92d8-92f081800982">
+            <ps />
+          </pg>
+          <pg id="26" n="IGBT - 阵列" url="http://www.digikey.com.cn/search/zh/分立半导体产品/IGBT-阵列/316" guid="75bb89eb-41bb-4e0b-bda4-0f9570770c24">
+            <ps />
+          </pg>
+          <pg id="27" n="JFET（结点场效应" url="http://www.digikey.com.cn/search/zh/分立半导体产品/JFET（结点场效应/318" guid="3b0dbf71-8346-4134-8d95-160bee482b63">
+            <ps />
+          </pg>
+          <pg id="28" n="RF 二极管" url="http://www.digikey.com.cn/search/zh/分立半导体产品/RF-二极管/320" guid="999b1545-209c-4dd8-a83a-4c70828f1c25">
+            <ps />
+          </pg>
+          <pg id="29" n="RF 晶体管（BJT）" url="http://www.digikey.com.cn/search/zh/分立半导体产品/RF-晶体管（BJT）/322" guid="a1d83517-7a29-4e5f-9b59-75561e435bb0">
+            <ps />
+          </pg>
+          <pg id="30" n="RF FET" url="http://www.digikey.com.cn/search/zh/分立半导体产品/RF-FET/321" guid="6d4a9d3c-0a35-4bb0-b0c1-e8592f209557">
+            <ps />
+          </pg>
+          <pg id="31" n="SCR - 单个" url="http://www.digikey.com.cn/search/zh/分立半导体产品/SCR-单个/323" guid="1b730e01-452c-4b42-97ba-e483ac8aa7fd">
+            <ps />
+          </pg>
+          <pg id="32" n="SCR - 模块" url="http://www.digikey.com.cn/search/zh/分立半导体产品/SCR-模块/2350" guid="744a4eef-0887-483d-bd07-1e34540ad4c0">
+            <ps />
+          </pg>
+        </pgs>
+      </wgt>
+      <wgt id="3" n="套件" url="http://www.digikey.com.cn/search/zh/套件/509" guid="483571f6-9b49-440c-99ba-951d37dc4863">
+        <pgs>
+          <pg id="1" n="五金套件" url="http://www.digikey.com.cn/search/zh/套件/五金套件/523" guid="7655a9e2-deca-401f-8ac4-f7887bc1535c">
+            <ps />
+          </pg>
+          <pg id="2" n="传感器套件" url="http://www.digikey.com.cn/search/zh/套件/传感器套件/539" guid="5e3642d8-2c78-44af-ae9c-711751305e7b">
+            <ps />
+          </pg>
+          <pg id="3" n="光学元件 - LED - 光导管套件" url="http://www.digikey.com.cn/search/zh/套件/光学元件-LED-光导管套件/4404" guid="f858c65a-4c88-47e4-a180-a0e5b085a91c" onepart="1">
+            <ps />
+          </pg>
+          <pg id="4" n="光纤套件" url="http://www.digikey.com.cn/search/zh/套件/光纤套件/4402" guid="5b5beb04-6c67-4529-a97d-d3b99bfe1bb6">
+            <ps />
+          </pg>
+          <pg id="5" n="其它" url="http://www.digikey.com.cn/search/zh/套件/其它/527" guid="d7800c8c-f1e6-470f-bb6e-b04691c27be1">
+            <ps />
+          </pg>
+          <pg id="6" n="分立元件分类套件" url="http://www.digikey.com.cn/search/zh/套件/分立元件分类套件/537" guid="b7cfe93b-f47e-4e6d-8f8c-4fa30f13e994">
+            <ps />
+          </pg>
+          <pg id="7" n="原型板套件 - 无孔" url="http://www.digikey.com.cn/search/zh/套件/原型板套件-无孔/4376" guid="e291fdd7-0b87-4c46-8bae-1eaa74f51210">
+            <ps />
+          </pg>
+          <pg id="8" n="变压器套件" url="http://www.digikey.com.cn/search/zh/套件/变压器套件/544" guid="cff01050-7305-4c6a-a9c5-31c54ade57a4">
+            <ps />
+          </pg>
+          <pg id="9" n="培训套件" url="http://www.digikey.com.cn/search/zh/套件/培训套件/521" guid="3e596ac5-c8c2-4585-b426-ffca04e0b054">
+            <ps />
+          </pg>
+          <pg id="10" n="射频屏蔽板套件" url="http://www.digikey.com.cn/search/zh/套件/射频屏蔽板套件/4405" guid="eae2265e-2d7f-4429-b7a2-dfcf9ec2267b">
+            <ps />
+          </pg>
+          <pg id="11" n="开关套件" url="http://www.digikey.com.cn/search/zh/套件/开关套件/4406" guid="444e0217-b18c-4e36-9fb1-2d598b7498f0">
+            <ps />
+          </pg>
+          <pg id="12" n="晶体套件" url="http://www.digikey.com.cn/search/zh/套件/晶体套件/4374" guid="7d62f5af-6541-4dac-b33d-7f52f1843fed" onepart="1">
+            <ps />
+          </pg>
+          <pg id="13" n="滤波器套件" url="http://www.digikey.com.cn/search/zh/套件/滤波器套件/531" guid="5df73636-b5b5-4430-aa9f-ce5e190b776a">
+            <ps />
+          </pg>
+          <pg id="14" n="热敏电阻套件" url="http://www.digikey.com.cn/search/zh/套件/热敏电阻套件/543" guid="7357f6c2-8e9e-40f6-b2b6-f963f4ade933">
+            <ps />
+          </pg>
+          <pg id="15" n="热缩管套件" url="http://www.digikey.com.cn/search/zh/套件/热缩管套件/4403" guid="91a343bb-1dae-4772-85ea-ba74da0460f4">
+            <ps />
+          </pg>
+          <pg id="16" n="电位计套件" url="http://www.digikey.com.cn/search/zh/套件/电位计套件/533" guid="e3d91a51-e83b-4455-a6e7-5f88c52f3257">
+            <ps />
+          </pg>
+          <pg id="17" n="电容器套件" url="http://www.digikey.com.cn/search/zh/套件/电容器套件/530" guid="0bec4e00-71a9-43ed-b264-98eb8a022c54">
+            <ps />
+          </pg>
+          <pg id="18" n="电感器，线圈，扼流圈套件" url="http://www.digikey.com.cn/search/zh/套件/电感器-线圈-扼流圈套件/532" guid="b871c1f1-1a59-4ee4-8737-0a5e16aec7c1">
+            <ps />
+          </pg>
+          <pg id="19" n="电路保护 - 分类套件" url="http://www.digikey.com.cn/search/zh/套件/电路保护-分类套件/515" guid="cecef007-b80d-40ad-8c04-998e5e3e5984">
+            <ps />
+          </pg>
+          <pg id="20" n="电路保护套件 - 熔丝" url="http://www.digikey.com.cn/search/zh/套件/电路保护套件-熔丝/516" guid="efdadbb4-182a-4f11-8c4f-233ac0915c80">
+            <ps />
+          </pg>
+          <pg id="21" n="电路保护套件 - TVS 二极管" url="http://www.digikey.com.cn/search/zh/套件/电路保护套件-TVS-二极管/517" guid="740e0ece-371a-4847-8fc6-b90306a229d1">
+            <ps />
+          </pg>
+          <pg id="22" n="电阻器套件" url="http://www.digikey.com.cn/search/zh/套件/电阻器套件/534" guid="f1c5fa9b-4622-43e5-bee2-038a41a7ffb2">
+            <ps />
+          </pg>
+          <pg id="23" n="线缆扎带套件" url="http://www.digikey.com.cn/search/zh/套件/线缆扎带套件/545" guid="e3c2f872-4b09-4cfb-8e73-a91e02e3088f">
+            <ps />
+          </pg>
+          <pg id="24" n="线缆组件" url="http://www.digikey.com.cn/search/zh/套件/线缆组件/513" guid="b0ce0dfc-0520-4956-b8b9-9f0e033c24e5">
+            <ps />
+          </pg>
+          <pg id="25" n="线缆，导线 - 单芯导线" url="http://www.digikey.com.cn/search/zh/套件/线缆-导线-单芯导线/514" guid="14adca6a-9061-4408-8a19-4a67b40ff379">
+            <ps />
+          </pg>
+          <pg id="26" n="缓冲器，支脚，焊盘，握把套件" url="http://www.digikey.com.cn/search/zh/套件/缓冲器-支脚-焊盘-握把套件/4373" guid="ed7fcb1b-1762-4149-9d53-985b12539c0c" onepart="1">
+            <ps />
+          </pg>
+          <pg id="27" n="胶带套件" url="http://www.digikey.com.cn/search/zh/套件/胶带套件/4377" guid="7316953a-afca-488d-908f-05376887a229">
+            <ps />
+          </pg>
+          <pg id="28" n="过时/停产零件编号" url="http://www.digikey.com.cn/search/zh/套件/过时-停产零件编号/528" guid="5b0c456d-4436-460e-957e-0055fe47e5b8">
+            <ps />
+          </pg>
+          <pg id="29" n="连接器套件" url="http://www.digikey.com.cn/search/zh/套件/连接器套件/519" guid="0f17f815-57cc-40eb-a063-2bf729180e90">
+            <ps />
+          </pg>
+          <pg id="30" n="连接器适配器套件" url="http://www.digikey.com.cn/search/zh/套件/连接器适配器套件/518" guid="9c98bea2-520c-44b3-a09e-1c21839f6fbb">
+            <ps />
+          </pg>
+          <pg id="31" n="配件" url="http://www.digikey.com.cn/search/zh/套件/配件/510" guid="a3b95ad0-2ecb-436a-82b6-e3293b96322a">
+            <ps />
+          </pg>
+          <pg id="32" n="静态控制套件" url="http://www.digikey.com.cn/search/zh/套件/静态控制套件/540" guid="0d2d320a-61c5-4480-bddf-9857348d779a">
+            <ps />
+          </pg>
+          <pg id="33" n="音频套件" url="http://www.digikey.com.cn/search/zh/套件/音频套件/4372" guid="0f587d7b-2512-4039-9c5e-da1e6a6bab5b">
+            <ps />
+          </pg>
+          <pg id="34" n="IC 分类套件" url="http://www.digikey.com.cn/search/zh/套件/IC-分类套件/538" guid="6f83c2e8-81c7-4e7c-8a89-eacf75b0eec0">
+            <ps />
+          </pg>
+          <pg id="35" n="LED 套件" url="http://www.digikey.com.cn/search/zh/套件/LED-套件/526" guid="463a6e18-8d9d-4674-a131-9d01c4dc9480">
+            <ps />
+          </pg>
+        </pgs>
+      </wgt>
+      <wgt id="4" n="存储卡，模块" url="http://www.digikey.com.cn/search/zh/存储卡-模块/554" guid="4961d3f3-6106-4f3c-a8fc-58060093fc2c">
+        <pgs>
+          <pg id="1" n="专用" url="http://www.digikey.com.cn/search/zh/存储卡-模块/专用/6104" guid="b8933bff-55e0-4738-baed-8c74f12bdfc5">
+            <ps />
+          </pg>
+          <pg id="2" n="固态硬盘（SSD）" url="http://www.digikey.com.cn/search/zh/存储卡-模块/固态硬盘（SSD）/6152" guid="c4b2c496-3947-41b4-a228-9228238ba778">
+            <ps />
+          </pg>
+          <pg id="3" n="存储卡" url="http://www.digikey.com.cn/search/zh/存储卡-模块/存储卡/555" guid="da17afbd-c4a1-494d-a457-d8948ec691c7">
+            <ps />
+          </pg>
+          <pg id="4" n="存储器 - 模块" url="http://www.digikey.com.cn/search/zh/存储卡-模块/存储器-模块/2359" guid="a3a9bc0e-4fdb-4f9d-8f84-7827cb2768c5">
+            <ps />
+          </pg>
+          <pg id="5" n="配件" url="http://www.digikey.com.cn/search/zh/存储卡-模块/配件/4378" guid="c6034b54-2baa-47c2-b950-6f4640422ee9">
+            <ps />
+          </pg>
+          <pg id="6" n="USB 闪存驱动器" url="http://www.digikey.com.cn/search/zh/存储卡-模块/USB-闪存驱动器/557" guid="77e56694-dfd8-4dbc-b097-9bbffcd076f6">
+            <ps />
+          </pg>
+        </pgs>
+      </wgt>
+      <wgt id="5" n="射频/IF 和 RFID" url="http://www.digikey.com.cn/search/zh/射频-IF-和-RFID/688" guid="b8fec6e5-d4ac-41e3-9d1f-73813fced2ed">
+        <pgs>
+          <pg id="1" n="平衡-不平衡变压器" url="http://www.digikey.com.cn/search/zh/射频-IF-和-RFID/平衡-不平衡变压器/690" guid="2bb3a786-a199-42f5-b663-586ec38abb0a">
+            <ps />
+          </pg>
+          <pg id="2" n="衰减器" url="http://www.digikey.com.cn/search/zh/射频-IF-和-RFID/衰减器/689" guid="6d707c1f-2fbc-47c5-9d12-f23bf9de3466">
+            <ps />
+          </pg>
+          <pg id="3" n="RF 其它 IC 和模块" url="http://www.digikey.com.cn/search/zh/射频-IF-和-RFID/RF-其它-IC-和模块/702" guid="74878aa8-e45b-4261-a030-bb96ce5971ae">
+            <ps />
+          </pg>
+          <pg id="4" n="RF 前端（LNA + PA）" url="http://www.digikey.com.cn/search/zh/射频-IF-和-RFID/RF-前端（LNA-+-PA）/701" guid="8a0eb43b-ad82-4809-8e79-d549cff2e284">
+            <ps />
+          </pg>
+          <pg id="5" n="RF 功率分配器/分线器" url="http://www.digikey.com.cn/search/zh/射频-IF-和-RFID/RF-功率分配器-分线器/706" guid="521645d2-7ebf-480e-9405-2a0ef1fe8a8a">
+            <ps />
+          </pg>
+          <pg id="6" n="RF 双工器" url="http://www.digikey.com.cn/search/zh/射频-IF-和-RFID/RF-双工器/698" guid="9ec8a948-0d1d-464a-98a9-b5c5bbe92b45">
+            <ps />
+          </pg>
+          <pg id="7" n="RF 发射器" url="http://www.digikey.com.cn/search/zh/射频-IF-和-RFID/RF-发射器/712" guid="17355093-3011-4aa6-8cb4-807a50706a0f">
+            <ps />
+          </pg>
+          <pg id="8" n="RF 天线" url="http://www.digikey.com.cn/search/zh/射频-IF-和-RFID/RF-天线/694" guid="66bcba7b-629a-451c-a61b-ae556ea8d657">
+            <ps />
+          </pg>
+          <pg id="9" n="RF 定向耦合器" url="http://www.digikey.com.cn/search/zh/射频-IF-和-RFID/RF-定向耦合器/699" guid="4c07ae50-53d7-45a1-880c-0e2f45602de4">
+            <ps />
+          </pg>
+          <pg id="10" n="RF 屏蔽" url="http://www.digikey.com.cn/search/zh/射频-IF-和-RFID/RF-屏蔽/709" guid="545777fd-825d-40d7-a598-81693827150d">
+            <ps />
+          </pg>
+          <pg id="11" n="RF 开关" url="http://www.digikey.com.cn/search/zh/射频-IF-和-RFID/RF-开关/710" guid="6224ba7e-8c9f-4c34-a85c-7498c04eabde">
+            <ps />
+          </pg>
+          <pg id="12" n="RF 接收器" url="http://www.digikey.com.cn/search/zh/射频-IF-和-RFID/RF-接收器/708" guid="9ad77eb8-7be3-419c-b999-1441c7ebd5e6">
+            <ps />
+          </pg>
+          <pg id="13" n="RF 接收器，发射器及收发器的成品装置" url="http://www.digikey.com.cn/search/zh/射频-IF-和-RFID/RF-接收器-发射器及收发器的成品装置/707" guid="03f01cac-1e21-4014-846d-a90495d972c5">
+            <ps />
+          </pg>
+          <pg id="14" n="RF 收发器" url="http://www.digikey.com.cn/search/zh/射频-IF-和-RFID/RF-收发器/711" guid="04634c6f-b332-4248-9cb7-c2ce16d3fedb">
+            <ps />
+          </pg>
+          <pg id="15" n="RF 放大器" url="http://www.digikey.com.cn/search/zh/射频-IF-和-RFID/RF-放大器/693" guid="8882a2d7-acd8-4e18-9aa7-b0586c855107">
+            <ps />
+          </pg>
+          <pg id="16" n="RF 检测器" url="http://www.digikey.com.cn/search/zh/射频-IF-和-RFID/RF-检测器/696" guid="0e2d76c9-f5d1-415c-bccf-22c6aeb25869">
+            <ps />
+          </pg>
+          <pg id="17" n="RF 模具产品" url="http://www.digikey.com.cn/search/zh/射频-IF-和-RFID/RF-模具产品/697" guid="ceb49f08-e472-4f4f-89b3-c75afa86c76b">
+            <ps />
+          </pg>
+          <pg id="18" n="RF 混频器" url="http://www.digikey.com.cn/search/zh/射频-IF-和-RFID/RF-混频器/703" guid="9fb27d57-c471-4a96-be36-266be6a61dc3">
+            <ps />
+          </pg>
+          <pg id="19" n="RF 电源控制器 IC" url="http://www.digikey.com.cn/search/zh/射频-IF-和-RFID/RF-电源控制器-IC/705" guid="b2737fc0-ac45-4e1f-aedc-869045d7da35">
+            <ps />
+          </pg>
+          <pg id="20" n="RF 解调器" url="http://www.digikey.com.cn/search/zh/射频-IF-和-RFID/RF-解调器/695" guid="525f3fc0-a0dd-438d-8976-b14d0a1e4cb0">
+            <ps />
+          </pg>
+          <pg id="21" n="RF 评估和开发套件，板" url="http://www.digikey.com.cn/search/zh/射频-IF-和-RFID/RF-评估和开发套件-板/700" guid="6cb92591-1692-401e-ab75-9899f6578884">
+            <ps />
+          </pg>
+          <pg id="22" n="RF 调制器" url="http://www.digikey.com.cn/search/zh/射频-IF-和-RFID/RF-调制器/704" guid="3327db18-23ef-4ccb-927a-37bea10dc010">
+            <ps />
+          </pg>
+          <pg id="23" n="RF配件" url="http://www.digikey.com.cn/search/zh/射频-IF-和-RFID/RF配件/692" guid="012d27b5-0a25-4333-a143-3a7daf3fade7">
+            <ps />
+          </pg>
+          <pg id="24" n="RFI 和 EMI - 屏蔽和吸收材料" url="http://www.digikey.com.cn/search/zh/射频-IF-和-RFID/RFI-和-EMI-屏蔽和吸收材料/713" guid="5dea4b2b-26c6-4749-b268-d1f18a3e098b">
+            <ps />
+          </pg>
+          <pg id="25" n="RFID 发射应答器，标签" url="http://www.digikey.com.cn/search/zh/射频-IF-和-RFID/RFID-发射应答器-标签/719" guid="ec91b225-e0be-4803-babd-a8e04c4f8460">
+            <ps />
+          </pg>
+          <pg id="26" n="RFID 天线" url="http://www.digikey.com.cn/search/zh/射频-IF-和-RFID/RFID-天线/715" guid="2c4c3172-0d14-4a12-b0a9-bac4c1f91466">
+            <ps />
+          </pg>
+          <pg id="27" n="RFID 评估和开发套件及电路板" url="http://www.digikey.com.cn/search/zh/射频-IF-和-RFID/RFID-评估和开发套件及电路板/716" guid="531599ca-cd5f-4718-b120-2c6436b30e9a">
+            <ps />
+          </pg>
+          <pg id="28" n="RFID 读取模块" url="http://www.digikey.com.cn/search/zh/射频-IF-和-RFID/RFID-读取模块/718" guid="72c713f3-fb1f-44e3-9882-55c90fda3a74">
+            <ps />
+          </pg>
+          <pg id="29" n="RFID IC" url="http://www.digikey.com.cn/search/zh/射频-IF-和-RFID/RFID-IC/717" guid="c02e88cd-34ae-4c38-a745-0f50f56a6480">
+            <ps />
+          </pg>
+          <pg id="30" n="RFID配件" url="http://www.digikey.com.cn/search/zh/射频-IF-和-RFID/RFID配件/714" guid="e58c8b44-dc7c-4bd4-877c-57b8fbb3dc54">
+            <ps />
+          </pg>
+        </pgs>
+      </wgt>
+      <wgt id="6" n="电源 - 板安装" url="http://www.digikey.com.cn/search/zh/电源-板安装/620" guid="e1f16b4c-bcd7-4eab-a949-b85e081d73b1">
+        <pgs>
+          <pg id="1" n="直流转换器" url="http://www.digikey.com.cn/search/zh/电源-板安装/直流转换器/2277" guid="d797cadf-7942-47a4-8fa6-b8292d28f359">
+            <ps />
+          </pg>
+          <pg id="2" n="配件" url="http://www.digikey.com.cn/search/zh/电源-板安装/配件/622" guid="5be81069-0c0e-487f-92ba-c1cef0290536">
+            <ps />
+          </pg>
+          <pg id="3" n="AC DC 转换器" url="http://www.digikey.com.cn/search/zh/电源-板安装/AC-DC-转换器/621" guid="3e776955-efbf-4a18-a4cb-3ca57feae0e1">
+            <ps />
+          </pg>
+          <pg id="4" n="LED 电源" url="http://www.digikey.com.cn/search/zh/电源-板安装/LED-电源/3501" guid="d05848e7-4748-4274-9357-0434b83d85ee">
+            <ps />
+          </pg>
+        </pgs>
+      </wgt>
+      <wgt id="7" n="编程器，开发系统" url="http://www.digikey.com.cn/search/zh/编程器-开发系统/639" guid="3a0bb700-2956-42ae-8fb5-0876eb8fa39b">
+        <pgs>
+          <pg id="1" n="内电路编程器，仿真器以及调试器" url="http://www.digikey.com.cn/search/zh/编程器-开发系统/内电路编程器-仿真器以及调试器/652" guid="3e47e780-e868-48f7-b143-b5a9fd35a3b4">
+            <ps />
+          </pg>
+          <pg id="2" n="模組" url="http://www.digikey.com.cn/search/zh/编程器-开发系统/模組/654" guid="2fccf86b-e0ce-44f1-8817-da66836f0d50">
+            <ps />
+          </pg>
+          <pg id="3" n="独立编程器" url="http://www.digikey.com.cn/search/zh/编程器-开发系统/独立编程器/657" guid="12cfae0c-3c4b-46f5-9eeb-76bcedab2a51">
+            <ps />
+          </pg>
+          <pg id="4" n="评估和演示板和套件" url="http://www.digikey.com.cn/search/zh/编程器-开发系统/评估和演示板和套件/642" guid="c35e4a98-c762-4eeb-9419-35fadd4ed9a5">
+            <ps />
+          </pg>
+          <pg id="5" n="评估板 -  模数转换器（ADC）" url="http://www.digikey.com.cn/search/zh/编程器-开发系统/评估板- 模数转换器（ADC）/643" guid="9a4959a5-4740-43fc-8835-b2a1464580a8">
+            <ps />
+          </pg>
+          <pg id="6" n="评估板 - 嵌入式 - MCU，DSP" url="http://www.digikey.com.cn/search/zh/编程器-开发系统/评估板-嵌入式-MCU-DSP/651" guid="1d0301c0-cedb-4950-a1b2-65739991c9f2">
+            <ps />
+          </pg>
+          <pg id="7" n="评估板 - 嵌入式 - 复杂逻辑器件（FPGA，CPLD）" url="http://www.digikey.com.cn/search/zh/编程器-开发系统/评估板-嵌入式- 复杂逻辑器件（FPGA-CPLD）/6183" guid="6b33a92b-34f9-4779-be81-c4005a5830cd">
+            <ps />
+          </pg>
+          <pg id="8" n="评估板 - 数模转换器 （DAC）" url="http://www.digikey.com.cn/search/zh/编程器-开发系统/评估板-数模转换器 （DAC）/646" guid="f548b523-34cd-41ce-a40d-e6ad47c91145">
+            <ps />
+          </pg>
+          <pg id="9" n="评估板 - 线性稳压器（LDO）" url="http://www.digikey.com.cn/search/zh/编程器-开发系统/评估板-线性稳压器（LDO）/648" guid="a2ecb1d5-8828-4e4d-8021-9d66bee2531a">
+            <ps />
+          </pg>
+          <pg id="10" n="评估板 - 运算放大器" url="http://www.digikey.com.cn/search/zh/编程器-开发系统/评估板-运算放大器/649" guid="153d4d16-2894-4d6d-b753-d3a6ab2b07f7">
+            <ps />
+          </pg>
+          <pg id="11" n="评估板 - 音频放大器" url="http://www.digikey.com.cn/search/zh/编程器-开发系统/评估板-音频放大器/644" guid="0d6239b7-6aa3-48de-be06-4b872f316622">
+            <ps />
+          </pg>
+          <pg id="12" n="评估板 -  DC/DC 与 AC/DC（离线）SMPS" url="http://www.digikey.com.cn/search/zh/编程器-开发系统/评估板-  DC-DC-与-AC-DC（离线）SMPS/645" guid="92534a77-e0a9-47aa-856b-c4ce03c965e2">
+            <ps />
+          </pg>
+          <pg id="13" n="评估板 -  LED 驱动器" url="http://www.digikey.com.cn/search/zh/编程器-开发系统/评估板-  LED-驱动器/647" guid="ad74774d-f15e-4d5d-876c-94b00cd7ea91">
+            <ps />
+          </pg>
+          <pg id="14" n="评估板 - 传感器" url="http://www.digikey.com.cn/search/zh/编程器-开发系统/评估板- 传感器/650" guid="33709d6b-9b08-4788-91b5-c4cb5ee27b57">
+            <ps />
+          </pg>
+          <pg id="15" n="软件，服务" url="http://www.digikey.com.cn/search/zh/编程器-开发系统/软件-服务/656" guid="86cdd566-a175-4344-a785-bd711832f27f">
+            <ps />
+          </pg>
+          <pg id="16" n="适配器" url="http://www.digikey.com.cn/search/zh/编程器-开发系统/适配器/641" guid="73b0252d-bf20-4a4a-bf9a-6896449b6801">
+            <ps />
+          </pg>
+          <pg id="17" n="配件" url="http://www.digikey.com.cn/search/zh/编程器-开发系统/配件/640" guid="205743a5-36ed-4f86-9380-f0949ee0ec57">
+            <ps />
+          </pg>
+          <pg id="18" n="UV抹除器" url="http://www.digikey.com.cn/search/zh/编程器-开发系统/UV抹除器/658" guid="a6362384-552e-49e6-a251-c35a8ca15225">
+            <ps />
+          </pg>
+        </pgs>
+      </wgt>
+      <wgt id="8" n="集成电路（IC）" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/406" guid="f64dae4c-f283-4b00-a711-96c367c0f009">
+        <pgs>
+          <pg id="1" n="专用 IC" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/专用-IC/502" guid="5f799914-5e86-4173-a6c5-b24fdb9bc7e6">
+            <ps />
+          </pg>
+          <pg id="2" n="存储器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/存储器/470" guid="3dbbaaf0-e17b-4abc-a092-00f3205f65e8">
+            <ps />
+          </pg>
+          <pg id="3" n="存储器 - 控制器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/存储器-控制器/473" guid="03d528fc-236e-45c0-8975-2b513e9b0a15">
+            <ps />
+          </pg>
+          <pg id="4" n="存储器 - 用于 FPGA 的配置 Proms" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/存储器-用于-FPGA-的配置-Proms/472" guid="ef04565c-fe65-4823-80df-090136dc7b0c">
+            <ps />
+          </pg>
+          <pg id="5" n="嵌入式 -  微控制器 - 应用特定" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/嵌入式- 微控制器-应用特定/427" guid="667ab23e-14eb-4052-a79b-4a8dd619d391">
+            <ps />
+          </pg>
+          <pg id="6" n="嵌入式 -  微控制器或微处理器模块" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/嵌入式- 微控制器或微处理器模块/425" guid="b651afa5-152f-4da6-adbe-580a164277f8">
+            <ps />
+          </pg>
+          <pg id="7" n="嵌入式 - 带有微控制器的 FPGA（现场可编程门阵列）" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/嵌入式-带有微控制器的-FPGA（现场可编程门阵列）/424" guid="37e87f8f-064b-4268-92e5-72cba67396e8">
+            <ps />
+          </pg>
+          <pg id="8" n="嵌入式 - 微处理器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/嵌入式-微处理器/428" guid="cff6aeba-fd2c-409d-be3c-c46b0ca1d9c7">
+            <ps />
+          </pg>
+          <pg id="9" n="嵌入式 - 微控制器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/嵌入式-微控制器/426" guid="9ac8fbd8-c906-4c29-ac87-44724b487e1c">
+            <ps />
+          </pg>
+          <pg id="10" n="嵌入式 - CPLD（复杂可编程逻辑器件）" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/嵌入式-CPLD（复杂可编程逻辑器件）/421" guid="ba357e6a-a3e2-49fa-b003-bf5c44ff1807">
+            <ps />
+          </pg>
+          <pg id="11" n="嵌入式 - DSP（数字式信号处理器）" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/嵌入式-DSP（数字式信号处理器）/422" guid="391832bc-cad1-4407-b716-b6e88891f9b3">
+            <ps />
+          </pg>
+          <pg id="12" n="嵌入式 - FPGA（现场可编程门阵列）" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/嵌入式-FPGA（现场可编程门阵列）/423" guid="61947cf7-b42a-4151-aca6-5c873226c132">
+            <ps />
+          </pg>
+          <pg id="13" n="嵌入式 - PLD（可编程逻辑器件）" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/嵌入式-PLD（可编程逻辑器件）/429" guid="aa6d1af5-5abe-4ade-b689-0a084a15e213">
+            <ps />
+          </pg>
+          <pg id="14" n="接口 - 专用" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/接口-专用/443" guid="2bcdbe64-2d56-4829-a48f-81c85960d118">
+            <ps />
+          </pg>
+          <pg id="15" n="接口 - 串行器，解串行器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/接口-串行器-解串行器/440" guid="34afa822-b1b9-4372-a898-c4537c463a10">
+            <ps />
+          </pg>
+          <pg id="16" n="接口 - 传感器和探测器接口" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/接口-传感器和探测器接口/439" guid="a30050c7-5f18-4f12-8064-2bee3b8b0832">
+            <ps />
+          </pg>
+          <pg id="17" n="接口 - 信号终端器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/接口-信号终端器/442" guid="a4c0a20a-1d00-4cad-9c59-2d135806a950">
+            <ps />
+          </pg>
+          <pg id="18" n="接口 - 信号缓冲器，中继器，分配器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/接口-信号缓冲器-中继器-分配器/441" guid="d9931a80-11c6-42de-a77d-7f7c73cc0ddd">
+            <ps />
+          </pg>
+          <pg id="19" n="接口 - 控制器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/接口-控制器/432" guid="a9210039-71b1-4ab9-b0e2-1745ffaef8ea">
+            <ps />
+          </pg>
+          <pg id="20" n="接口 - 模块" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/接口-模块/4425" guid="3fb7ed72-839f-4188-aa82-6d1b5a26226e">
+            <ps />
+          </pg>
+          <pg id="21" n="接口 - 模拟开关，多路复用器，多路分解器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/接口-模拟开关-多路复用器-多路分解器/430" guid="f9c51283-2731-4393-a82c-28ad0f0446a7">
+            <ps />
+          </pg>
+          <pg id="22" n="接口 - 滤波器 - 有源" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/接口-滤波器-有源/436" guid="b468ad74-1cbf-4f9e-95d9-884eb43fd91c">
+            <ps />
+          </pg>
+          <pg id="23" n="接口 - 电信" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/接口-电信/444" guid="4eac0e1f-3a1d-40a5-ba7e-c478255c8774">
+            <ps />
+          </pg>
+          <pg id="24" n="接口 - 直接数字合成（DDS）" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/接口-直接数字合成（DDS）/433" guid="c84e52e9-c184-4a5e-9c0c-619be47311eb">
+            <ps />
+          </pg>
+          <pg id="25" n="接口 - 编码器，解码器，转换器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/接口-编码器-解码器-转换器/435" guid="e2f19599-9a50-4c89-ab47-64f200503da4">
+            <ps />
+          </pg>
+          <pg id="26" n="接口 - 编解码器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/接口-编解码器/431" guid="8790bb79-3a24-4e8f-b76c-76409fe54815">
+            <ps />
+          </pg>
+          <pg id="27" n="接口 - 语音录制和重放" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/接口-语音录制和重放/446" guid="0b5c80b4-2fb6-4ef7-8f97-f3985477f734">
+            <ps />
+          </pg>
+          <pg id="28" n="接口 - 调制解调器 - IC 和模块" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/接口-调制解调器-IC-和模块/438" guid="ae4ccf98-b5c6-443c-964c-346e418b06f6">
+            <ps />
+          </pg>
+          <pg id="29" n="接口 - 驱动器，接收器，收发器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/接口-驱动器-接收器-收发器/434" guid="a9926517-78f1-4b38-a6a8-8fb57b0f568e">
+            <ps />
+          </pg>
+          <pg id="30" n="接口 - I/O 扩展器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/接口-I-O-扩展器/437" guid="590c6b70-b285-4851-a65e-882093e561ba">
+            <ps />
+          </pg>
+          <pg id="31" n="接口 - UART（通用异步接收器/发送器）" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/接口-UART（通用异步接收器-发送器）/445" guid="b721c212-edc2-433c-9854-245c641d6219">
+            <ps />
+          </pg>
+          <pg id="32" n="数据采集 - 数字电位器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/数据采集-数字电位器/418" guid="2147e098-086d-47dd-90e1-515763eda7b9">
+            <ps />
+          </pg>
+          <pg id="33" n="数据采集 - 数模转换器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/数据采集-数模转换器/419" guid="0b620d4b-d1cb-46c1-a06a-2c60c8ee052c">
+            <ps />
+          </pg>
+          <pg id="34" n="数据采集 - 模拟前端（AFE）" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/数据采集-模拟前端（AFE）/416" guid="905a1516-1022-4139-ae55-3cda8f60cb4b">
+            <ps />
+          </pg>
+          <pg id="35" n="数据采集 - 模数转换器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/数据采集-模数转换器/417" guid="882aa0b2-19e7-42d1-bdb7-0154faedfe90">
+            <ps />
+          </pg>
+          <pg id="36" n="数据采集 - 触摸屏控制器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/数据采集-触摸屏控制器/420" guid="47a2a0a8-d133-4d69-9059-bddd0cb71068">
+            <ps />
+          </pg>
+          <pg id="37" n="数据采集 - ADCs/DAC - 专用型" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/数据采集-ADCs-DAC-专用型/415" guid="cadcc0ce-ebea-416b-8864-5d2373ed69ba">
+            <ps />
+          </pg>
+          <pg id="38" n="时钟/计时 - 专用" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/时钟-计时-专用/408" guid="ea5b033a-b70d-4b52-a529-9f10a9decf45">
+            <ps />
+          </pg>
+          <pg id="39" n="时钟/计时 - 可编程计时器和振荡器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/时钟-计时-可编程计时器和振荡器/413" guid="e73fff76-9900-4521-9f65-e8865c2f6766">
+            <ps />
+          </pg>
+          <pg id="40" n="时钟/计时 - 实时时钟" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/时钟-计时-实时时钟/414" guid="ea9d21e0-d016-439b-a327-19e6788d6c65">
+            <ps />
+          </pg>
+          <pg id="41" n="时钟/计时 - 延迟线" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/时钟-计时-延迟线/411" guid="2620739d-4b45-4091-8ccf-f1de196ef7e2">
+            <ps />
+          </pg>
+          <pg id="42" n="时钟/计时 - 时钟发生器，PLL，频率合成器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/时钟-计时-时钟发生器-PLL-频率合成器/410" guid="e3ebfd7e-88b5-4480-9eb4-4062c8674e0f">
+            <ps />
+          </pg>
+          <pg id="43" n="时钟/计时 - 时钟缓冲器，驱动器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/时钟-计时-时钟缓冲器-驱动器/409" guid="21b1cf7c-04ce-4df3-aeb2-69acf8c68c83">
+            <ps />
+          </pg>
+          <pg id="44" n="时钟/计时 - IC 电池" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/时钟-计时-IC-电池/412" guid="0c03be0a-38b7-48b6-b7d0-b1b838e9a4dd">
+            <ps />
+          </pg>
+          <pg id="45" n="线性 - 放大器 - 专用" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/线性-放大器-专用/449" guid="47d3acdd-e20b-430f-b24d-aa789820bb92">
+            <ps />
+          </pg>
+          <pg id="46" n="线性 - 放大器 - 仪表，运算放大器，缓冲器放大器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/线性-放大器-仪表-运算放大器-缓冲器放大器/448" guid="fb7a49b6-c3a3-4132-ae63-68a2e96ae7e3">
+            <ps />
+          </pg>
+          <pg id="47" n="线性 - 放大器 - 视频放大器和频缓冲器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/线性-放大器-视频放大器和频缓冲器/450" guid="f2eeafbd-f0a3-431e-aaaf-87cbaa66ae5c">
+            <ps />
+          </pg>
+          <pg id="48" n="线性 - 模拟乘法器，除法器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/线性-模拟乘法器-除法器/451" guid="6c444487-73c4-41ba-a8f8-d701549bb0ee">
+            <ps />
+          </pg>
+          <pg id="49" n="线性 - 比较器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/线性-比较器/453" guid="0d8afbae-a5cf-432f-a749-db269adf3573">
+            <ps />
+          </pg>
+          <pg id="50" n="线性 - 视频处理" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/线性-视频处理/454" guid="ca5a9381-fbf3-474f-bc8b-e40f82c2513a">
+            <ps />
+          </pg>
+          <pg id="51" n="线性 - 音頻放大器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/线性-音頻放大器/447" guid="05ba7ad5-ce84-49b6-9d7f-b13575b2ae69">
+            <ps />
+          </pg>
+          <pg id="52" n="线性 - 音频处理" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/线性-音频处理/452" guid="fd711c0e-c84f-4d3f-bc4c-da11d607eaca">
+            <ps />
+          </pg>
+          <pg id="53" n="逻辑 - 专用逻辑" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/逻辑-专用逻辑/467" guid="bb08299b-97ee-484b-ae59-ad1efd3a9004">
+            <ps />
+          </pg>
+          <pg id="54" n="逻辑 - 信号开关，多路复用器，解码器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/逻辑-信号开关-多路复用器-解码器/466" guid="383f8285-c69b-4d1f-bca5-60efff21957b">
+            <ps />
+          </pg>
+          <pg id="55" n="逻辑 - 变换器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/逻辑-变换器/468" guid="c76b1a38-1f62-4639-8b0b-4e30ffd5ebef">
+            <ps />
+          </pg>
+          <pg id="56" n="逻辑 - 多频振荡器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/逻辑-多频振荡器/463" guid="4fbc81c2-2246-4ea6-81e9-bfaca49c3aac">
+            <ps />
+          </pg>
+          <pg id="57" n="逻辑 - 奇偶校验发生器和校验器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/逻辑-奇偶校验发生器和校验器/464" guid="b670a33e-d4aa-4a19-9947-c3a61e794427">
+            <ps />
+          </pg>
+          <pg id="58" n="逻辑 - 栅极和逆变器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/逻辑-栅极和逆变器/460" guid="9e0b1cf7-f430-4e64-b19b-db14e8032b6e">
+            <ps />
+          </pg>
+          <pg id="59" n="逻辑 - 栅极和逆变器 - 多功能，可配置" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/逻辑-栅极和逆变器-多功能-可配置/461" guid="374cc062-b4f6-476b-a565-fa1bf8cc5377">
+            <ps />
+          </pg>
+          <pg id="60" n="逻辑 - 比较器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/逻辑-比较器/456" guid="b34eb583-530e-485a-be3a-ad457cb4cb8d">
+            <ps />
+          </pg>
+          <pg id="61" n="逻辑 - 移位寄存器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/逻辑-移位寄存器/465" guid="fdc94ed9-8bdd-4e21-a155-feb385de2e33">
+            <ps />
+          </pg>
+          <pg id="62" n="逻辑 - 缓冲器，驱动器，接收器，收发器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/逻辑-缓冲器-驱动器-接收器-收发器/455" guid="46663349-e0d0-4fe3-817e-bbdf93f66c8b">
+            <ps />
+          </pg>
+          <pg id="63" n="逻辑 - 触发器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/逻辑-触发器/459" guid="7dce0d77-cc0c-4b62-92d9-ab8157719104">
+            <ps />
+          </pg>
+          <pg id="64" n="逻辑 - 通用总线函数" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/逻辑-通用总线函数/469" guid="80669027-aed5-4f63-b36a-960c323547a6">
+            <ps />
+          </pg>
+          <pg id="65" n="逻辑 - 锁销" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/逻辑-锁销/462" guid="08133452-13b6-458c-b112-d3b28e9309ba">
+            <ps />
+          </pg>
+          <pg id="66" n="逻辑 - FIFO 存储器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/逻辑-FIFO-存储器/458" guid="c2da276c-da0a-4477-a248-4a11aa486f49">
+            <ps />
+          </pg>
+          <pg id="67" n="逻辑 -计数器，除法器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/逻辑-计数器-除法器/457" guid="d0615b36-9f8f-4314-bded-3b4f58f55f17">
+            <ps />
+          </pg>
+          <pg id="68" n="配件" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/配件/407" guid="558c4ec2-a45e-4513-93a7-9baa29a9b1aa">
+            <ps />
+          </pg>
+          <pg id="69" n="Embedded - System On Chip（SoC）" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/Embedded-System-On-Chip（SoC）/2264" guid="6693261f-e56b-47eb-a390-eea1ed53b03c">
+            <ps />
+          </pg>
+          <pg id="70" n="PMIC - 以太网供电（PoE） 控制器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/PMIC-以太网供电（PoE）-控制器/4624" guid="02cbc99e-dec8-4c88-bb0d-4db52df325ee">
+            <ps />
+          </pg>
+          <pg id="71" n="PMIC - 显示器驱动器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/PMIC-显示器驱动器/477" guid="bce9be0f-c236-4186-ab18-653e5cc62a49">
+            <ps />
+          </pg>
+          <pg id="72" n="PMIC - 激光驱动器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/PMIC-激光驱动器/480" guid="80a1808c-17dd-4eb0-8bad-170e1ff0b6c8">
+            <ps />
+          </pg>
+          <pg id="73" n="PMIC - 热插拔控制器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/PMIC-热插拔控制器/479" guid="3cfbe510-beb5-4454-8ebe-44a2f76ad1b4">
+            <ps />
+          </pg>
+          <pg id="74" n="PMIC - 热管理" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/PMIC-热管理/493" guid="09b0c548-6a82-4d64-a88e-285738eced20">
+            <ps />
+          </pg>
+          <pg id="75" n="PMIC - 照明，镇流器控制器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/PMIC-照明-镇流器控制器/482" guid="2f179aab-4524-4177-b6a8-ab1a882286b1">
+            <ps />
+          </pg>
+          <pg id="76" n="PMIC - 电压基准" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/PMIC-电压基准/495" guid="8fed3f38-9a1f-4f6c-8705-7e80688f546e">
+            <ps />
+          </pg>
+          <pg id="77" n="PMIC - 电机，电桥式驱动器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/PMIC-电机-电桥式驱动器/485" guid="8ffae243-b889-4e0a-ab54-76198490617b">
+            <ps />
+          </pg>
+          <pg id="78" n="PMIC - 电池管理" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/PMIC-电池管理/475" guid="edabcd17-a708-4313-9aa3-5f71bb829835">
+            <ps />
+          </pg>
+          <pg id="79" n="PMIC - 电源控制器，监视器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/PMIC-电源控制器-监视器/490" guid="f7fc45ff-80d3-4dc2-89c6-3266b355565f">
+            <ps />
+          </pg>
+          <pg id="80" n="PMIC - 电源管理 - 专用" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/PMIC-电源管理-专用/489" guid="9178b94c-cf22-4dd9-9617-58cdaf6d1150">
+            <ps />
+          </pg>
+          <pg id="81" n="PMIC - 监控器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/PMIC-监控器/492" guid="e2657dae-bf85-4371-a857-39a34ca23aad">
+            <ps />
+          </pg>
+          <pg id="82" n="PMIC - 稳压器 - 专用型" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/PMIC-稳压器-专用型/501" guid="27b1d73c-edac-4961-b8ae-fbb983207444">
+            <ps />
+          </pg>
+          <pg id="83" n="PMIC - 稳压器 - 线性" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/PMIC-稳压器-线性/498" guid="afee1cd1-f0d7-4bda-aa6b-d4b697f3af54">
+            <ps />
+          </pg>
+          <pg id="84" n="PMIC - 稳压器 - 线性 + 切换式" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/PMIC-稳压器-线性-+-切换式/499" guid="f5760fd2-abe0-4d85-908b-9e2ac30e83db">
+            <ps />
+          </pg>
+          <pg id="85" n="PMIC - 稳压器 - 线性晶体管驱动器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/PMIC-稳压器-线性晶体管驱动器/500" guid="fa1a3dd1-b02d-4f81-bda8-b32844d5e6fd">
+            <ps />
+          </pg>
+          <pg id="86" n="PMIC - 稳压器 - DC DC 切换控制器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/PMIC-稳压器-DC-DC-切换控制器/496" guid="fb0bef44-6569-4b68-9ca4-1c91b10b0970">
+            <ps />
+          </pg>
+          <pg id="87" n="PMIC - 稳压器 - DC DC 开关稳压器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/PMIC-稳压器-DC-DC-开关稳压器/497" guid="341c20a4-2456-4c6d-8b7b-e395a040cc4b">
+            <ps />
+          </pg>
+          <pg id="88" n="PMIC - 稳流/电流管理" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/PMIC-稳流-电流管理/476" guid="2a0fb169-1d37-4c03-b848-cbbb54dab633">
+            <ps />
+          </pg>
+          <pg id="89" n="PMIC - 能量测量" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/PMIC-能量测量/478" guid="bf8d4448-b844-4fa7-ac78-b495a12089ca">
+            <ps />
+          </pg>
+          <pg id="90" n="PMIC - 配电开关，负载驱动器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/PMIC-配电开关-负载驱动器/488" guid="7488f319-e655-4106-903f-61e82755e4fc">
+            <ps />
+          </pg>
+          <pg id="91" n="PMIC - AC-DC 转换器，离线开关" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/PMIC-AC-DC-转换器-离线开关/474" guid="3f3730e3-59be-40cc-a422-77e555dd4f78">
+            <ps />
+          </pg>
+          <pg id="92" n="PMIC - LED 驱动器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/PMIC-LED-驱动器/481" guid="ac07e61e-563a-4906-ac19-d7c3abcaffa8">
+            <ps />
+          </pg>
+          <pg id="93" n="PMIC - MOSFET，电桥驱动器 - 内部开关" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/PMIC-MOSFET-电桥驱动器-内部开关/484" guid="ca8a9fe6-2c77-4ff4-bf65-96ee0166b6c2">
+            <ps />
+          </pg>
+          <pg id="94" n="PMIC - MOSFET，电桥驱动器 - 外部开关" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/PMIC-MOSFET-电桥驱动器-外部开关/483" guid="c8681ff6-6eea-47c1-a2d6-55fa02a6afb0">
+            <ps />
+          </pg>
+          <pg id="95" n="PMIC - OR 控制器，理想二极管" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/PMIC-OR-控制器-理想二极管/486" guid="9a13fb1f-53ab-456f-9001-e0c232d29227">
+            <ps />
+          </pg>
+          <pg id="96" n="PMIC - PFC（功率因数修正）" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/PMIC-PFC（功率因数修正）/487" guid="e0ce00aa-829d-47a1-b2aa-4edae9b1981e">
+            <ps />
+          </pg>
+          <pg id="97" n="PMIC - RMS 至 DC 转换器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/PMIC-RMS-至-DC-转换器/491" guid="e4b8dcd4-3421-4d2f-84a7-ddc7a3cea5bb">
+            <ps />
+          </pg>
+          <pg id="98" n="PMIC - V/F 和 F/V 转换器" url="http://www.digikey.com.cn/search/zh/集成电路（IC）/PMIC-V-F-和-F-V-转换器/494" guid="75b73990-a3c6-490e-bb41-ea09fb704266">
+            <ps />
+          </pg>
+        </pgs>
+      </wgt>
+    </wgts>
+  </cat>
+</r>

@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<r>
+  <cat id="Category5" n="光电元件" guid="f77624b7-8b9d-4536-9103-690c56fdf891">
+    <wgts>
+      <wgt id="1" n="" url="http://www.digikey.com.cn" guid="dfe69d76-4138-4084-896d-0052ff779db1">
+        <pgs>
+          <pg id="1" n="光学 - LED - 反射器" url="http://www.digikey.com.cn/search/zh/光电元件/光学-LED-反射器/4078" guid="1d60a5e9-ec09-4d3f-a94b-96d3f49366ae">
+            <ps />
+          </pg>
+          <pg id="2" n="光学 - LED - 灯管" url="http://www.digikey.com.cn/search/zh/光电元件/光学-LED-灯管/4077" guid="ddfbea0f-84f0-4e04-9886-ba8ebc04b607">
+            <ps />
+          </pg>
+          <pg id="3" n="光学 - LED，灯 - 透镜" url="http://www.digikey.com.cn/search/zh/光电元件/光学-LED-灯-透镜/4079" guid="2a6d3d9a-bf35-4d10-9fe3-ecb14d1a034e">
+            <ps />
+          </pg>
+          <pg id="4" n="光学元件 - 非接触式荧光粉" url="http://www.digikey.com.cn/search/zh/光电元件/光学元件-非接触式荧光粉/4415" guid="eaddae3f-e117-4b9c-8ecd-1c120cea1c51">
+            <ps />
+          </pg>
+          <pg id="5" n="光纤 - 发射器 - 离散式" url="http://www.digikey.com.cn/search/zh/光电元件/光纤-发射器-离散式/4063" guid="1a4743d5-1b1b-4126-8c76-c3f963cba85c">
+            <ps />
+          </pg>
+          <pg id="6" n="光纤 - 发射器 - 驱动器集成电路" url="http://www.digikey.com.cn/search/zh/光电元件/光纤-发射器-驱动器集成电路/4064" guid="a8e73c1b-b726-415a-98ac-ccfe1c76e6b5">
+            <ps />
+          </pg>
+          <pg id="7" n="光纤 - 开关，多路复用器，多路分解器" url="http://www.digikey.com.cn/search/zh/光电元件/光纤-开关-多路复用器-多路分解器/4061" guid="ac8c6237-8d82-4c50-adf8-b795f6cd904f">
+            <ps />
+          </pg>
+          <pg id="8" n="光纤 - 接收器" url="http://www.digikey.com.cn/search/zh/光电元件/光纤-接收器/4060" guid="97c9a75f-54b5-40ff-bf76-575e9783be87">
+            <ps />
+          </pg>
+          <pg id="9" n="光纤 - 收发器" url="http://www.digikey.com.cn/search/zh/光电元件/光纤-收发器/4062" guid="3ab161b4-e20b-4e71-b397-0b5b2114d646">
+            <ps />
+          </pg>
+          <pg id="10" n="光纤 - 衰减器" url="http://www.digikey.com.cn/search/zh/光电元件/光纤-衰减器/4059" guid="2a0657a8-554d-4cae-985b-75bea5243281">
+            <ps />
+          </pg>
+          <pg id="11" n="反相器" url="http://www.digikey.com.cn/search/zh/光电元件/反相器/4066" guid="4c701e76-218c-4dc0-b06a-afad90cbafae">
+            <ps />
+          </pg>
+          <pg id="12" n="显示器模块 - 真空荧光（VFD）" url="http://www.digikey.com.cn/search/zh/光电元件/显示器模块-真空荧光（VFD）/4057" guid="b71a1fbb-a0c5-43b3-90aa-555b48905f5c">
+            <ps />
+          </pg>
+          <pg id="13" n="显示器模块 - LCD，OLED 字符和数字" url="http://www.digikey.com.cn/search/zh/光电元件/显示器模块-LCD-OLED-字符和数字/4053" guid="3a0db81d-9838-4b17-bd1f-5aa84b33be1b">
+            <ps />
+          </pg>
+          <pg id="14" n="显示器模块 - LED 字符与数字" url="http://www.digikey.com.cn/search/zh/光电元件/显示器模块-LED-字符与数字/4055" guid="fd82daf0-1a60-4ce5-9547-d57c2b19d30c">
+            <ps />
+          </pg>
+          <pg id="15" n="显示器模块 - LED 点阵和簇" url="http://www.digikey.com.cn/search/zh/光电元件/显示器模块-LED-点阵和簇/4056" guid="e7496bde-e0bf-4ec9-a5ae-0e3ea443966b">
+            <ps />
+          </pg>
+          <pg id="16" n="显示器，监视器 - 接口控制器" url="http://www.digikey.com.cn/search/zh/光电元件/显示器-监视器-接口控制器/4058" guid="8e934945-fbca-4dbb-9dd1-5092fe53f19b">
+            <ps />
+          </pg>
+          <pg id="17" n="智能，智慧，发光二极管，显示器，图形" url="http://www.digikey.com.cn/search/zh/光电元件/智能-智慧-发光二极管-显示器-图形/4054" guid="7d076e55-55cb-4b74-82e9-bde754f2ac2e">
+            <ps />
+          </pg>
+          <pg id="18" n="激光二极管" url="http://www.digikey.com.cn/search/zh/光电元件/激光二极管/4069" guid="440da108-1555-4692-8e95-de4e360b5905">
+            <ps />
+          </pg>
+          <pg id="19" n="灯 - 冷阴极荧光（CCFL） 和 UV" url="http://www.digikey.com.cn/search/zh/光电元件/灯-冷阴极荧光（CCFL）-和-UV/4067" guid="8493bcb6-0c66-47a5-83e4-63dcdcab42a6">
+            <ps />
+          </pg>
+          <pg id="20" n="灯 - 白炽灯，氖灯" url="http://www.digikey.com.cn/search/zh/光电元件/灯-白炽灯-氖灯/4068" guid="efe5f8fb-c5d0-427c-ba65-c3b655163a9e">
+            <ps />
+          </pg>
+          <pg id="21" n="红外，UV，可见光发射器" url="http://www.digikey.com.cn/search/zh/光电元件/红外-UV-可见光发射器/4065" guid="a84a5367-7a96-4648-9b91-a3dbe4c79cf0">
+            <ps />
+          </pg>
+          <pg id="22" n="触摸屏覆盖层" url="http://www.digikey.com.cn/search/zh/光电元件/触摸屏覆盖层/4081" guid="11cf504e-ec90-4c39-8c2e-630b4454b5b4">
+            <ps />
+          </pg>
+          <pg id="23" n="边框" url="http://www.digikey.com.cn/search/zh/光电元件/边框/4052" guid="966d5b25-3fa0-49de-a6af-3df71c9b2490">
+            <ps />
+          </pg>
+          <pg id="24" n="配件" url="http://www.digikey.com.cn/search/zh/光电元件/配件/4051" guid="31f21b90-c985-40e8-bbe8-34329ed08fba">
+            <ps />
+          </pg>
+          <pg id="25" n="面板指示器，指示灯" url="http://www.digikey.com.cn/search/zh/光电元件/面板指示器-指示灯/4080" guid="7bdf2358-0f14-4f96-b28c-70e3a3c28a0a">
+            <ps />
+          </pg>
+          <pg id="26" n="LED 指示 - 分立" url="http://www.digikey.com.cn/search/zh/光电元件/LED-指示-分立/4072" guid="5b133aed-61fc-46a6-8b4d-be1e450c6acb">
+            <ps />
+          </pg>
+          <pg id="27" n="LED 照明 - 彩色" url="http://www.digikey.com.cn/search/zh/光电元件/LED-照明-彩色/4555" guid="89e422e8-2504-496b-916c-f0364c65d11e">
+            <ps />
+          </pg>
+          <pg id="28" n="LED 照明 - 白色" url="http://www.digikey.com.cn/search/zh/光电元件/LED-照明-白色/4556" guid="b0bd292e-3269-4743-9c0a-f0ce052a359c">
+            <ps />
+          </pg>
+          <pg id="29" n="LED 照明 - COB，引擎，模块" url="http://www.digikey.com.cn/search/zh/光电元件/LED-照明-COB-引擎-模块/4074" guid="0db91a08-c325-469e-ba35-63976b034f6d">
+            <ps />
+          </pg>
+          <pg id="30" n="LED - 垫片，支座" url="http://www.digikey.com.cn/search/zh/光电元件/LED-垫片-支座/4076" guid="0682f720-b79f-444c-8906-435de104b5b0">
+            <ps />
+          </pg>
+          <pg id="31" n="LED - 灯更换" url="http://www.digikey.com.cn/search/zh/光电元件/LED-灯更换/4075" guid="8bfad629-cfa3-4319-885e-8ae6965ca76d">
+            <ps />
+          </pg>
+          <pg id="32" n="LED - 电路板指示器，阵列，发光条，条形图" url="http://www.digikey.com.cn/search/zh/光电元件/LED-电路板指示器-阵列-发光条-条形图/4071" guid="c5a53548-9715-47f4-b04d-1569755dbcfa">
+            <ps />
+          </pg>
+          <pg id="33" n="LED LED 散热产品" url="http://www.digikey.com.cn/search/zh/光电元件/LED-LED-散热产品/4070" guid="a04bda2f-a590-4c18-9e90-7ac30ef30914">
+            <ps />
+          </pg>
+        </pgs>
+      </wgt>
+    </wgts>
+  </cat>
+</r>

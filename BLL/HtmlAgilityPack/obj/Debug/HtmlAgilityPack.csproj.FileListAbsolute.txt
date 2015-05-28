@@ -1,0 +1,11 @@
+F:\MyWork\《网站项目》\《唯芯会》\外包程序\Crawler\Crawler-master_V25\BLL\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.XML
+F:\MyWork\《网站项目》\《唯芯会》\外包程序\Crawler\Crawler-master_V25\BLL\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.dll
+F:\MyWork\《网站项目》\《唯芯会》\外包程序\Crawler\Crawler-master_V25\BLL\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.pdb
+F:\MyWork\《网站项目》\《唯芯会》\外包程序\Crawler\Crawler-master_V25\BLL\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.csprojResolveAssemblyReference.cache
+F:\MyWork\《网站项目》\《唯芯会》\外包程序\Crawler\Crawler-master_V25\BLL\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.dll
+F:\MyWork\《网站项目》\《唯芯会》\外包程序\Crawler\Crawler-master_V25\BLL\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.pdb
+D:\GrabbingParts\GrabbingParts\BLL\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.XML
+D:\GrabbingParts\GrabbingParts\BLL\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.dll
+D:\GrabbingParts\GrabbingParts\BLL\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.pdb
+D:\GrabbingParts\GrabbingParts\BLL\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.dll
+D:\GrabbingParts\GrabbingParts\BLL\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.pdb

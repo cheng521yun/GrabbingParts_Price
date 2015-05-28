@@ -1,0 +1,10 @@
+F:\MyWork\《网站项目》\《唯芯会》\外包程序\Crawler\Crawler-master_V25\Util\StringHelpers\bin\Debug\GrabbingParts.Util.StringHelpers.dll
+F:\MyWork\《网站项目》\《唯芯会》\外包程序\Crawler\Crawler-master_V25\Util\StringHelpers\bin\Debug\GrabbingParts.Util.StringHelpers.pdb
+F:\MyWork\《网站项目》\《唯芯会》\外包程序\Crawler\Crawler-master_V25\Util\StringHelpers\obj\Debug\StringHelpers.csprojResolveAssemblyReference.cache
+F:\MyWork\《网站项目》\《唯芯会》\外包程序\Crawler\Crawler-master_V25\Util\StringHelpers\obj\Debug\GrabbingParts.Util.StringHelpers.dll
+F:\MyWork\《网站项目》\《唯芯会》\外包程序\Crawler\Crawler-master_V25\Util\StringHelpers\obj\Debug\GrabbingParts.Util.StringHelpers.pdb
+D:\GrabbingParts\GrabbingParts\Util\StringHelpers\bin\Debug\GrabbingParts.Util.StringHelpers.dll
+D:\GrabbingParts\GrabbingParts\Util\StringHelpers\bin\Debug\GrabbingParts.Util.StringHelpers.pdb
+D:\GrabbingParts\GrabbingParts\Util\StringHelpers\obj\Debug\GrabbingParts.Util.StringHelpers.dll
+D:\GrabbingParts\GrabbingParts\Util\StringHelpers\obj\Debug\GrabbingParts.Util.StringHelpers.pdb
+D:\GrabbingParts\GrabbingParts\Util\StringHelpers\obj\Debug\StringHelpers.csprojResolveAssemblyReference.cache

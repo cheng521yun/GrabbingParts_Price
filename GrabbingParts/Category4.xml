@@ -1,0 +1,748 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<r>
+  <cat id="Category4" n="机电产品" guid="f56e8bb6-71be-415f-8d07-8adafa18f3d0">
+    <wgts>
+      <wgt id="1" n="原型开发产品" url="http://www.digikey.com.cn/search/zh/原型开发产品/659" guid="a96404f1-7403-44ee-9a66-69dd5b9add58">
+        <pgs>
+          <pg id="1" n="卡扩展器" url="http://www.digikey.com.cn/search/zh/原型开发产品/卡扩展器/662" guid="c4f8fdad-04e8-4438-b846-91a0146546aa">
+            <ps />
+          </pg>
+          <pg id="2" n="原型/维修工具" url="http://www.digikey.com.cn/search/zh/原型开发产品/原型-维修工具/668" guid="8eeda7f0-8448-4426-ae15-a37ae2233fe3">
+            <ps />
+          </pg>
+          <pg id="3" n="无孔原型板" url="http://www.digikey.com.cn/search/zh/原型开发产品/无孔原型板/667" guid="eadcd62c-43f6-4ccd-9f70-040127633d50">
+            <ps />
+          </pg>
+          <pg id="4" n="无焊剂试验电路板" url="http://www.digikey.com.cn/search/zh/原型开发产品/无焊剂试验电路板/669" guid="ba9ec0eb-d57b-41ab-9775-02e80e55a2ca">
+            <ps />
+          </pg>
+          <pg id="5" n="有孔原型板" url="http://www.digikey.com.cn/search/zh/原型开发产品/有孔原型板/666" guid="fec77248-5628-426f-9d82-baa170fb772e">
+            <ps />
+          </pg>
+          <pg id="6" n="蚀刻和制造设备" url="http://www.digikey.com.cn/search/zh/原型开发产品/蚀刻和制造设备/664" guid="7230e245-7e59-4d92-b09c-55099eb61b0c">
+            <ps />
+          </pg>
+          <pg id="7" n="跳线" url="http://www.digikey.com.cn/search/zh/原型开发产品/跳线/665" guid="5e02fd4e-73eb-4c50-804f-18a4db41fd3c">
+            <ps />
+          </pg>
+          <pg id="8" n="适配器，可互换接口板" url="http://www.digikey.com.cn/search/zh/原型开发产品/适配器-可互换接口板/661" guid="c28449be-050d-45e1-9ef8-3b9076dedd83">
+            <ps />
+          </pg>
+          <pg id="9" n="配件" url="http://www.digikey.com.cn/search/zh/原型开发产品/配件/660" guid="cdf90285-cbc4-40ed-953c-a7bbccaa5522">
+            <ps />
+          </pg>
+          <pg id="10" n="钻位" url="http://www.digikey.com.cn/search/zh/原型开发产品/钻位/663" guid="f43b3f17-5167-4c6b-8b4f-a3cc751b1cf4">
+            <ps />
+          </pg>
+        </pgs>
+      </wgt>
+      <wgt id="2" n="工业控制装置，量表" url="http://www.digikey.com.cn/search/zh/工业控制装置-量表/385" guid="ac52601c-1aa3-41f9-871d-6a1341479e0e">
+        <pgs>
+          <pg id="1" n="专用" url="http://www.digikey.com.cn/search/zh/工业控制装置-量表/专用/404" guid="4e54d537-2109-4f1e-892b-854964ecbcbe">
+            <ps />
+          </pg>
+          <pg id="2" n="传感器 - 配件" url="http://www.digikey.com.cn/search/zh/工业控制装置-量表/传感器-配件/2459" guid="b08eb519-d8b4-4ace-9b5c-23991bbf52cf">
+            <ps />
+          </pg>
+          <pg id="3" n="传感器接口 - 接线盒" url="http://www.digikey.com.cn/search/zh/工业控制装置-量表/传感器接口-接线盒/4493" guid="21fd1cd2-23d9-4351-9af8-e97ba4dbb63d">
+            <ps />
+          </pg>
+          <pg id="4" n="传感器电缆 - 配件" url="http://www.digikey.com.cn/search/zh/工业控制装置-量表/传感器电缆-配件/2340" guid="56aadb79-b471-4266-a15d-d659656f2275">
+            <ps />
+          </pg>
+          <pg id="5" n="保护继电器和系统" url="http://www.digikey.com.cn/search/zh/工业控制装置-量表/保护继电器和系统/403" guid="878c6556-e621-4f43-894a-f74a76202d61">
+            <ps />
+          </pg>
+          <pg id="6" n="其它" url="http://www.digikey.com.cn/search/zh/工业控制装置-量表/其它/4492" guid="faa9fec8-2c8a-492a-95ad-0f665de0b055">
+            <ps />
+          </pg>
+          <pg id="7" n="凸轮定位器" url="http://www.digikey.com.cn/search/zh/工业控制装置-量表/凸轮定位器/387" guid="f292cb4d-87c2-4773-bea7-027dd6b4856c">
+            <ps />
+          </pg>
+          <pg id="8" n="工业设备" url="http://www.digikey.com.cn/search/zh/工业控制装置-量表/工业设备/4417" guid="2537b08b-435e-4b88-b8f9-286440b964f4">
+            <ps />
+          </pg>
+          <pg id="9" n="控制器 - 处理，温度" url="http://www.digikey.com.cn/search/zh/工业控制装置-量表/控制器-处理-温度/390" guid="949089a6-5edd-4e6a-93c9-622b9846bc1c">
+            <ps />
+          </pg>
+          <pg id="10" n="控制器 - 液体，液面" url="http://www.digikey.com.cn/search/zh/工业控制装置-量表/控制器-液体-液面/388" guid="b89e7efc-ca3c-4baf-aea4-76b57b0662ce">
+            <ps />
+          </pg>
+          <pg id="11" n="控制器 - PLC 模块" url="http://www.digikey.com.cn/search/zh/工业控制装置-量表/控制器-PLC-模块/6883" guid="33432eda-7566-447e-8c18-0c612e2b02b6">
+            <ps />
+          </pg>
+          <pg id="12" n="控制器 - 可编程逻辑（PLC）" url="http://www.digikey.com.cn/search/zh/工业控制装置-量表/控制器 -可编程逻辑（PLC）/4401" guid="d48fc089-b3fb-4ce7-b424-c9382a148592">
+            <ps />
+          </pg>
+          <pg id="13" n="控制器 - 可编程配件" url="http://www.digikey.com.cn/search/zh/工业控制装置-量表/控制器 -可编程配件/4424" guid="4950bbdf-afdc-460b-bad0-8cd181a7d7af">
+            <ps />
+          </pg>
+          <pg id="14" n="气动式" url="http://www.digikey.com.cn/search/zh/工业控制装置-量表/气动式/402" guid="4674550a-2ab1-4218-803b-66062f94d913">
+            <ps />
+          </pg>
+          <pg id="15" n="照明控制" url="http://www.digikey.com.cn/search/zh/工业控制装置-量表/照明控制/6459" guid="30ffb04e-dc79-4097-bd41-c2107c55ada8">
+            <ps />
+          </pg>
+          <pg id="16" n="照明控制 - 配件" url="http://www.digikey.com.cn/search/zh/工业控制装置-量表/照明控制-配件/6460" guid="21a7fb00-0eaf-4098-8b89-789198400727">
+            <ps />
+          </pg>
+          <pg id="17" n="监视器 - 电流/电压 - 继电器输出" url="http://www.digikey.com.cn/search/zh/工业控制装置-量表/监视器-电流-电压-继电器输出/399" guid="d76f4df5-2a3b-4029-b62e-6417de3bbf4d">
+            <ps />
+          </pg>
+          <pg id="18" n="监视器 - 电流/电压传感器" url="http://www.digikey.com.cn/search/zh/工业控制装置-量表/监视器-电流-电压传感器/393" guid="72d91c50-4351-45ef-9fff-e50ab975f560">
+            <ps />
+          </pg>
+          <pg id="19" n="配件" url="http://www.digikey.com.cn/search/zh/工业控制装置-量表/配件/386" guid="257a987f-5197-42a5-a4b3-1c49e1c3c2b8">
+            <ps />
+          </pg>
+          <pg id="20" n="面板仪表" url="http://www.digikey.com.cn/search/zh/工业控制装置-量表/面板仪表/397" guid="3313bda9-e51b-4d58-ac08-89294c566410">
+            <ps />
+          </pg>
+          <pg id="21" n="面板仪表 - 计数器，小时计" url="http://www.digikey.com.cn/search/zh/工业控制装置-量表/面板仪表-计数器-小时计/392" guid="f2a3ac35-9e11-4e21-8fac-401b7fe92330">
+            <ps />
+          </pg>
+          <pg id="22" n="面板式仪表 - 配件" url="http://www.digikey.com.cn/search/zh/工业控制装置-量表/面板式仪表-配件/6351" guid="991cb131-e8c9-4d1c-9b35-5a221d4ac1b2">
+            <ps />
+          </pg>
+        </pgs>
+      </wgt>
+      <wgt id="3" n="工具" url="http://www.digikey.com.cn/search/zh/工具/869" guid="7259305c-7a6b-43a1-8e83-c3d2bc4c7e92">
+        <pgs>
+          <pg id="1" n="个人防护装备（PPE）" url="http://www.digikey.com.cn/search/zh/工具/个人防护装备（PPE）/6709" guid="834070ad-470d-463a-9efa-8dec8a468c63">
+            <ps />
+          </pg>
+          <pg id="2" n="光纤和配件" url="http://www.digikey.com.cn/search/zh/工具/光纤和配件/878" guid="e2d5772e-9aff-41fb-b8a6-85a64ed318e2">
+            <ps />
+          </pg>
+          <pg id="3" n="六角，螺丝刀" url="http://www.digikey.com.cn/search/zh/工具/六角-螺丝刀/2465" guid="26a14478-ae24-4be2-933f-562ecda5f5f0">
+            <ps />
+          </pg>
+          <pg id="4" n="其它工具" url="http://www.digikey.com.cn/search/zh/工具/其它工具/898" guid="bfb5da58-8c57-4161-ab40-6d45ae9f102c">
+            <ps />
+          </pg>
+          <pg id="5" n="冲杆" url="http://www.digikey.com.cn/search/zh/工具/冲杆/886" guid="46e9e311-7c04-4d12-9e7a-af7abe8fd033">
+            <ps />
+          </pg>
+          <pg id="6" n="刀，刀片" url="http://www.digikey.com.cn/search/zh/工具/刀-刀片/883" guid="4aeadeee-4567-45a7-b28b-0addcee34a5c">
+            <ps />
+          </pg>
+          <pg id="7" n="切割工具" url="http://www.digikey.com.cn/search/zh/工具/切割工具/875" guid="e6b7b802-f986-4310-a962-36a20ac895c5">
+            <ps />
+          </pg>
+          <pg id="8" n="剥线器和配件" url="http://www.digikey.com.cn/search/zh/工具/剥线器和配件/904" guid="49431246-a9d8-4c3d-83a2-6991ee3b43c8">
+            <ps />
+          </pg>
+          <pg id="9" n="压接器，施用器，压力机" url="http://www.digikey.com.cn/search/zh/工具/压接器-施用器-压力机/873" guid="b280f495-1acf-4f48-b8ab-5f17fa54fb82">
+            <ps />
+          </pg>
+          <pg id="10" n="压接器，施用器，压力机 - 配件" url="http://www.digikey.com.cn/search/zh/工具/压接器-施用器-压力机-配件/874" guid="1fc16828-bbfd-400a-b88a-fa3efbab6229">
+            <ps />
+          </pg>
+          <pg id="11" n="各类工具套件" url="http://www.digikey.com.cn/search/zh/工具/各类工具套件/870" guid="368ee8e9-3ea0-4950-8b91-2185b7e45aa3">
+            <ps />
+          </pg>
+          <pg id="12" n="套筒，套筒手柄" url="http://www.digikey.com.cn/search/zh/工具/套筒-套筒手柄/895" guid="eb54d4d3-8f0a-4f8d-8ba7-0e3c6ef241dd">
+            <ps />
+          </pg>
+          <pg id="13" n="扳手" url="http://www.digikey.com.cn/search/zh/工具/扳手/4586" guid="d5634a8c-e9e8-411d-b601-bea5b5283d6b">
+            <ps />
+          </pg>
+          <pg id="14" n="插入，抽取" url="http://www.digikey.com.cn/search/zh/工具/插入-抽取/882" guid="57007340-8512-4552-9f89-9ce318d88120">
+            <ps />
+          </pg>
+          <pg id="15" n="插口 - 装置" url="http://www.digikey.com.cn/search/zh/工具/插口-装置/896" guid="7e724cb3-dc2a-4447-8bd7-3952ea581201">
+            <ps />
+          </pg>
+          <pg id="16" n="模具組" url="http://www.digikey.com.cn/search/zh/工具/模具組/872" guid="e8fa7294-9ef3-4889-80af-01589c4d5f71">
+            <ps />
+          </pg>
+          <pg id="17" n="热风枪喷枪 - 配件" url="http://www.digikey.com.cn/search/zh/工具/热风枪喷枪-配件/881" guid="defdf3e2-552b-4446-89d8-7191fb9cba46">
+            <ps />
+          </pg>
+          <pg id="18" n="真空" url="http://www.digikey.com.cn/search/zh/工具/真空/902" guid="3e1cc109-c9c5-487f-beb4-61b8482052a3">
+            <ps />
+          </pg>
+          <pg id="19" n="穿孔工具，刀片，配件" url="http://www.digikey.com.cn/search/zh/工具/穿孔工具-刀片-配件/885" guid="419f5485-09db-41e1-87d8-804537214f40">
+            <ps />
+          </pg>
+          <pg id="20" n="线束枪和配件" url="http://www.digikey.com.cn/search/zh/工具/线束枪和配件/905" guid="15a10174-f4f0-40a0-a9e7-56d63f9a400e">
+            <ps />
+          </pg>
+          <pg id="21" n="绕接线" url="http://www.digikey.com.cn/search/zh/工具/绕接线/906" guid="cd085daf-3756-470e-8de4-4628c528dd86">
+            <ps />
+          </pg>
+          <pg id="22" n="老虎钳" url="http://www.digikey.com.cn/search/zh/工具/老虎钳/903" guid="f9e070e9-974e-4be8-a68e-d682b1e3388a">
+            <ps />
+          </pg>
+          <pg id="23" n="螺丝和螺母起子 - 刀头、刀片和手柄" url="http://www.digikey.com.cn/search/zh/工具/螺丝和螺母起子-刀头、刀片和手柄/889" guid="c1cfddd7-2ce2-47a2-97b7-c140bc3a512e">
+            <ps />
+          </pg>
+          <pg id="24" n="螺线形绕线，伸缩套管" url="http://www.digikey.com.cn/search/zh/工具/螺线形绕线-伸缩套管/899" guid="f1eba611-15e7-4147-ad5b-cc1eea1ada85">
+            <ps />
+          </pg>
+          <pg id="25" n="螺钉和螺母驱动器" url="http://www.digikey.com.cn/search/zh/工具/螺钉和螺母驱动器/887" guid="7b1d49ee-7db2-4659-9d69-4b13c7b35b1f">
+            <ps />
+          </pg>
+          <pg id="26" n="螺钉和螺母驱动器 - 装置" url="http://www.digikey.com.cn/search/zh/工具/螺钉和螺母驱动器-装置/892" guid="80ff0662-9883-43e0-85fe-924a0cedcd0a">
+            <ps />
+          </pg>
+          <pg id="27" n="配件" url="http://www.digikey.com.cn/search/zh/工具/配件/2324" guid="461f69bf-b5b9-4e3e-b200-702c878b4d01">
+            <ps />
+          </pg>
+          <pg id="28" n="钳子" url="http://www.digikey.com.cn/search/zh/工具/钳子/884" guid="f8939b85-3473-4a96-ad9d-aba54f28acc0">
+            <ps />
+          </pg>
+          <pg id="29" n="钻孔机、钩、镊子、探针、调节工具" url="http://www.digikey.com.cn/search/zh/工具/钻孔机、钩、镊子、探针、调节工具/877" guid="42c7d34f-e002-49ac-932b-da40eeba93d5">
+            <ps />
+          </pg>
+          <pg id="30" n="铆固工具" url="http://www.digikey.com.cn/search/zh/工具/铆固工具/900" guid="180e9d5d-91cd-4e40-b8df-7d952ddf0014">
+            <ps />
+          </pg>
+          <pg id="31" n="锤子" url="http://www.digikey.com.cn/search/zh/工具/锤子/880" guid="28fbc421-3df2-44a5-bc8a-7e5e2495dced">
+            <ps />
+          </pg>
+          <pg id="32" n="镊子" url="http://www.digikey.com.cn/search/zh/工具/镊子/901" guid="a3a7ce89-4637-4885-9df7-328bacb2d93c">
+            <ps />
+          </pg>
+          <pg id="33" n="闪光灯" url="http://www.digikey.com.cn/search/zh/工具/闪光灯/879" guid="98cade8b-9223-46d2-ac0f-b98cdec2bf0a">
+            <ps />
+          </pg>
+        </pgs>
+      </wgt>
+      <wgt id="4" n="开关" url="http://www.digikey.com.cn/search/zh/开关/810" guid="8491b7ce-c2ee-451e-b65b-b551c62aad72">
+        <pgs>
+          <pg id="1" n="可编程显示器开关" url="http://www.digikey.com.cn/search/zh/开关/可编程显示器开关/822" guid="b28018c6-8b1b-4d4f-9f1d-ff54016c14ec">
+            <ps />
+          </pg>
+          <pg id="2" n="可配置开关元件 - 照明光源" url="http://www.digikey.com.cn/search/zh/开关/可配置开关元件-照明光源/815" guid="9f404019-ecbc-431a-b877-972c140e15a8">
+            <ps />
+          </pg>
+          <pg id="3" n="可配置开关元件 - 触点块" url="http://www.digikey.com.cn/search/zh/开关/可配置开关元件-触点块/814" guid="b5f4c8f2-1d2f-4189-8969-504ce5cee18e">
+            <ps />
+          </pg>
+          <pg id="4" n="可配置开关元件 - 透镜" url="http://www.digikey.com.cn/search/zh/开关/可配置开关元件-透镜/816" guid="394374dc-1d7d-44f5-9690-bd00461636f4">
+            <ps />
+          </pg>
+          <pg id="5" n="可配置开关元件，主体" url="http://www.digikey.com.cn/search/zh/开关/可配置开关元件-主体/813" guid="d03b4908-3670-434e-b5ae-186f5d5f7488">
+            <ps />
+          </pg>
+          <pg id="6" n="导航开关，操纵杆" url="http://www.digikey.com.cn/search/zh/开关/导航开关-操纵杆/821" guid="8fc0f1e1-667a-4af1-bb27-651c9a1d7a5e">
+            <ps />
+          </pg>
+          <pg id="7" n="小键盘开关" url="http://www.digikey.com.cn/search/zh/开关/小键盘开关/819" guid="db356a98-702f-4307-a4a0-c58f42c1ceab">
+            <ps />
+          </pg>
+          <pg id="8" n="快动，限位开关" url="http://www.digikey.com.cn/search/zh/开关/快动-限位开关/829" guid="b0e84cbc-26e7-49df-a970-a46618591801">
+            <ps />
+          </pg>
+          <pg id="9" n="拨动开关" url="http://www.digikey.com.cn/search/zh/开关/拨动开关/832" guid="b3dff017-b227-4c97-b884-c7c94762251b">
+            <ps />
+          </pg>
+          <pg id="10" n="拨轮开关" url="http://www.digikey.com.cn/search/zh/开关/拨轮开关/2477" guid="c4b8574b-b1c4-4e6c-ae6d-4b8d6040389c">
+            <ps />
+          </pg>
+          <pg id="11" n="按钮开关" url="http://www.digikey.com.cn/search/zh/开关/按钮开关/823" guid="5d789460-b9e5-4c51-a2ba-37ef5e655d77">
+            <ps />
+          </pg>
+          <pg id="12" n="按钮开关 - 霍尔效应" url="http://www.digikey.com.cn/search/zh/开关/按钮开关-霍尔效应/824" guid="52c54e0f-ea3d-4c0c-8b52-a1f002dcc6d8" onepart="1">
+            <ps />
+          </pg>
+          <pg id="13" n="摇臂开关" url="http://www.digikey.com.cn/search/zh/开关/摇臂开关/825" guid="d5a2d24a-be48-441d-af1f-0c96df2ec15a">
+            <ps />
+          </pg>
+          <pg id="14" n="旋转开关" url="http://www.digikey.com.cn/search/zh/开关/旋转开关/826" guid="fd040e63-8a21-4bed-ba7e-73d1361d9855">
+            <ps />
+          </pg>
+          <pg id="15" n="滑动开关" url="http://www.digikey.com.cn/search/zh/开关/滑动开关/2476" guid="db7f29be-ef6f-42b2-836c-5957a5454197">
+            <ps />
+          </pg>
+          <pg id="16" n="磁簧开关" url="http://www.digikey.com.cn/search/zh/开关/磁簧开关/820" guid="d7d3539d-076d-4f71-b125-77fa3843a0d5">
+            <ps />
+          </pg>
+          <pg id="17" n="触摸开关" url="http://www.digikey.com.cn/search/zh/开关/触摸开关/830" guid="59d57562-6c89-468a-b0c8-47a6c5d6cd89">
+            <ps />
+          </pg>
+          <pg id="18" n="选择器开关" url="http://www.digikey.com.cn/search/zh/开关/选择器开关/827" guid="e96180ed-76e2-482f-bd43-764192662f48">
+            <ps />
+          </pg>
+          <pg id="19" n="配件" url="http://www.digikey.com.cn/search/zh/开关/配件/811" guid="be635d9a-9b61-4477-848e-19b08a4faf2f">
+            <ps />
+          </pg>
+          <pg id="20" n="配件 - 帽盖" url="http://www.digikey.com.cn/search/zh/开关/配件-帽盖/812" guid="1aca68c4-4a9d-4dd2-a093-4ab40d164ee1">
+            <ps />
+          </pg>
+          <pg id="21" n="键锁开关" url="http://www.digikey.com.cn/search/zh/开关/键锁开关/818" guid="b7e17dc1-e528-4527-a710-6f31a0f1afa7">
+            <ps />
+          </pg>
+          <pg id="22" n="DIP 开关" url="http://www.digikey.com.cn/search/zh/开关/DIP-开关/817" guid="16a3fbee-5107-4b33-a0da-4c8c218e7308">
+            <ps />
+          </pg>
+        </pgs>
+      </wgt>
+      <wgt id="5" n="测试与测量" url="http://www.digikey.com.cn/search/zh/测试与测量/837" guid="9c663353-b6f0-41c5-bed5-57bf6a4c50a9">
+        <pgs>
+          <pg id="1" n="万用表" url="http://www.digikey.com.cn/search/zh/测试与测量/万用表/845" guid="e5b15f82-c3a5-4175-8493-2709a5584d7f">
+            <ps />
+          </pg>
+          <pg id="2" n="万用表 - 专用" url="http://www.digikey.com.cn/search/zh/测试与测量/万用表-专用/846" guid="66b9c37c-f2b2-43b4-b9dc-74d1d1745a09">
+            <ps />
+          </pg>
+          <pg id="3" n="函数发生器" url="http://www.digikey.com.cn/search/zh/测试与测量/函数发生器/842" guid="eb761702-f44f-4b6c-a5be-fa4a1c364332">
+            <ps />
+          </pg>
+          <pg id="4" n="可调变压器" url="http://www.digikey.com.cn/search/zh/测试与测量/可调变压器/865" guid="144c76e9-040f-43a1-8e44-5a2800160a1e">
+            <ps />
+          </pg>
+          <pg id="5" n="泄漏检测器" url="http://www.digikey.com.cn/search/zh/测试与测量/泄漏检测器/843" guid="7d33e7f0-98ef-4749-98ac-5014e8f588b8">
+            <ps />
+          </pg>
+          <pg id="6" n="测试夹 - 抓取器，钩" url="http://www.digikey.com.cn/search/zh/测试与测量/测试夹-抓取器-钩/852" guid="578a4c79-e2a0-401b-9910-7702668d99bb">
+            <ps />
+          </pg>
+          <pg id="7" n="测试夹 - 短头鳄鱼夹，鳄鱼夹，重型" url="http://www.digikey.com.cn/search/zh/测试与测量/测试夹-短头鳄鱼夹-鳄鱼夹-重型/851" guid="c041b2e1-405d-4e0a-ba5a-55176d27c4d1">
+            <ps />
+          </pg>
+          <pg id="8" n="测试夹 - IC" url="http://www.digikey.com.cn/search/zh/测试与测量/测试夹-IC/853" guid="f57d373b-72f8-456d-a01c-6686238a56a6">
+            <ps />
+          </pg>
+          <pg id="9" n="测试引线 - 热电偶，温度探头" url="http://www.digikey.com.cn/search/zh/测试与测量/测试引线-热电偶-温度探头/859" guid="f076b0ac-9916-4205-8377-5caa1b8450d0">
+            <ps />
+          </pg>
+          <pg id="10" n="测试引线 - 跳线，专用型" url="http://www.digikey.com.cn/search/zh/测试与测量/测试引线-跳线-专用型/856" guid="69c2f7f6-ec4a-403a-ba72-3752ec8de0a7">
+            <ps />
+          </pg>
+          <pg id="11" n="测试引线 - 香蕉，量表接口" url="http://www.digikey.com.cn/search/zh/测试与测量/测试引线-香蕉-量表接口/854" guid="a8c7a7a2-4031-437d-ac44-d5e140cb0f2a">
+            <ps />
+          </pg>
+          <pg id="12" n="测试引线 - BNC 接口" url="http://www.digikey.com.cn/search/zh/测试与测量/测试引线-BNC-接口/855" guid="3bd52946-9bae-4e66-9de3-c009d337d109">
+            <ps />
+          </pg>
+          <pg id="13" n="测试引线，探针 - 示波器" url="http://www.digikey.com.cn/search/zh/测试与测量/测试引线-探针-示波器/858" guid="31170421-777c-4ec8-b0b0-6835b28c78f1">
+            <ps />
+          </pg>
+          <pg id="14" n="测试探头 - 套件，分类" url="http://www.digikey.com.cn/search/zh/测试与测量/测试探头-套件-分类/857" guid="95be39fa-0b97-4838-95a1-822174b51f45">
+            <ps />
+          </pg>
+          <pg id="15" n="测试探头尖" url="http://www.digikey.com.cn/search/zh/测试与测量/测试探头尖/862" guid="243e888d-fd00-4670-9e8a-e46289dc5b37">
+            <ps />
+          </pg>
+          <pg id="16" n="测试点" url="http://www.digikey.com.cn/search/zh/测试与测量/测试点/860" guid="a24e9c0f-5af9-498b-8625-c8d86ef2ecb0">
+            <ps />
+          </pg>
+          <pg id="17" n="温度计" url="http://www.digikey.com.cn/search/zh/测试与测量/温度计/863" guid="f949e44b-ee90-4495-814f-bac8d61fa7f6">
+            <ps />
+          </pg>
+          <pg id="18" n="电源 - 测试，工作台" url="http://www.digikey.com.cn/search/zh/测试与测量/电源-测试-工作台/848" guid="5b96131e-a783-4d4a-aa77-9396b2c2ca39">
+            <ps />
+          </pg>
+          <pg id="19" n="设备 - 电气检测仪，电流探头" url="http://www.digikey.com.cn/search/zh/测试与测量/设备-电气检测仪-电流探头/2249" guid="335d2b31-3641-4b60-a2c5-1916077f8706">
+            <ps />
+          </pg>
+          <pg id="20" n="设备 - 示波器" url="http://www.digikey.com.cn/search/zh/测试与测量/设备-示波器/847" guid="c697cd1d-ea30-4c7f-bf98-3603370f593f">
+            <ps />
+          </pg>
+          <pg id="21" n="配件" url="http://www.digikey.com.cn/search/zh/测试与测量/配件/838" guid="3e495c1b-9da8-444e-bd6e-0827b782ab57">
+            <ps />
+          </pg>
+          <pg id="22" n="频谱分析器" url="http://www.digikey.com.cn/search/zh/测试与测量/频谱分析器/850" guid="12563a64-7d5f-4b20-b86d-6d15118a1b0c">
+            <ps />
+          </pg>
+        </pgs>
+      </wgt>
+      <wgt id="6" n="焊接，拆焊，返修产品" url="http://www.digikey.com.cn/search/zh/焊接-拆焊-返修产品/785" guid="6d539b10-79f1-4b92-893d-bffe6096a076">
+        <pgs>
+          <pg id="1" n="支座，支架" url="http://www.digikey.com.cn/search/zh/焊接-拆焊-返修产品/支座-支架/791" guid="5a1bd62d-b66b-4cea-92d5-8e4277d05551">
+            <ps />
+          </pg>
+          <pg id="2" n="烙铁，镊子，手柄" url="http://www.digikey.com.cn/search/zh/焊接-拆焊-返修产品/烙铁-镊子-手柄/792" guid="a4b7251f-6f05-4c6c-ae54-688286d4f8bd">
+            <ps />
+          </pg>
+          <pg id="3" n="烟雾排除" url="http://www.digikey.com.cn/search/zh/焊接-拆焊-返修产品/烟雾排除/790" guid="cbaad7ee-3e5f-43f4-9002-d6111f623600">
+            <ps />
+          </pg>
+          <pg id="4" n="焊剂，焊剂清除器" url="http://www.digikey.com.cn/search/zh/焊接-拆焊-返修产品/焊剂-焊剂清除器/789" guid="a871caf1-ea60-4fd6-ac14-30070b39fe95">
+            <ps />
+          </pg>
+          <pg id="5" n="焊接" url="http://www.digikey.com.cn/search/zh/焊接-拆焊-返修产品/焊接/793" guid="3594d276-9f83-4b91-9ed7-f86f3c454106">
+            <ps />
+          </pg>
+          <pg id="6" n="焊接模版，模板" url="http://www.digikey.com.cn/search/zh/焊接-拆焊-返修产品/焊接模版-模板/796" guid="a4170088-caa8-4c4c-9632-11b9a113837d">
+            <ps />
+          </pg>
+          <pg id="7" n="焊接海綿" url="http://www.digikey.com.cn/search/zh/焊接-拆焊-返修产品/焊接海綿/794" guid="9a59c93d-d4ac-438f-8169-3ba944c41894">
+            <ps />
+          </pg>
+          <pg id="8" n="焊接，拆焊，返修尖头，喷嘴" url="http://www.digikey.com.cn/search/zh/焊接-拆焊-返修产品/焊接-拆焊-返修尖头-喷嘴/797" guid="09f504dc-fad6-4ee1-9f80-e03b53a464f6">
+            <ps />
+          </pg>
+          <pg id="9" n="焊接，拆焊，返修工作台" url="http://www.digikey.com.cn/search/zh/焊接-拆焊-返修产品/焊接-拆焊-返修工作台/795" guid="329c2f12-3a41-4fea-8946-2056163a3fbf">
+            <ps />
+          </pg>
+          <pg id="10" n="给料器，给料器尖端" url="http://www.digikey.com.cn/search/zh/焊接-拆焊-返修产品/给料器-给料器尖端/788" guid="f1f62587-000a-46e0-b186-549847d246c7">
+            <ps />
+          </pg>
+          <pg id="11" n="脱焊织物，棉芯，吸锡器" url="http://www.digikey.com.cn/search/zh/焊接-拆焊-返修产品/脱焊织物-棉芯-吸锡器/787" guid="33cf5fa5-0092-45bf-a861-704bcea497e5">
+            <ps />
+          </pg>
+          <pg id="12" n="配件" url="http://www.digikey.com.cn/search/zh/焊接-拆焊-返修产品/配件/786" guid="3bc420ee-2a2c-4b9c-9464-e20bb36be558">
+            <ps />
+          </pg>
+        </pgs>
+      </wgt>
+      <wgt id="7" n="电源 - 外部/内部（外接）" url="http://www.digikey.com.cn/search/zh/电源-外部-内部（外接）/628" guid="9426df4d-6973-4786-931c-ceeab851e40c">
+        <pgs>
+          <pg id="1" n="以太网供电（PoE）" url="http://www.digikey.com.cn/search/zh/电源-外部-内部（外接）/以太网供电（PoE）/636" guid="a1ee662f-2ee0-4a07-90c6-a2a759531f8d">
+            <ps />
+          </pg>
+          <pg id="2" n="直流转换器" url="http://www.digikey.com.cn/search/zh/电源-外部-内部（外接）/直流转换器/633" guid="178354bb-bb27-43d2-b820-6da494a447a2">
+            <ps />
+          </pg>
+          <pg id="3" n="配件" url="http://www.digikey.com.cn/search/zh/电源-外部-内部（外接）/配件/632" guid="3c01ab07-72d4-47ab-a998-832d1410dfc0">
+            <ps />
+          </pg>
+          <pg id="4" n="AC AC 壁式适配器" url="http://www.digikey.com.cn/search/zh/电源-外部-内部（外接）/AC-AC-壁式适配器/638" guid="41d67e65-035b-4a66-865d-f834741ecb09">
+            <ps />
+          </pg>
+          <pg id="5" n="AC DC 可配置电源机架" url="http://www.digikey.com.cn/search/zh/电源-外部-内部（外接）/AC-DC-可配置电源机架/630" guid="bbe2ce10-eeba-4a1d-85f7-e323413a16b2">
+            <ps />
+          </pg>
+          <pg id="6" n="AC DC 可配置电源模块" url="http://www.digikey.com.cn/search/zh/电源-外部-内部（外接）/AC-DC-可配置电源模块/631" guid="fecbca28-7c7f-4c7b-bcc7-6024024b1305">
+            <ps />
+          </pg>
+          <pg id="7" n="AC DC 台式，壁式适配器" url="http://www.digikey.com.cn/search/zh/电源-外部-内部（外接）/AC-DC-台式-壁式适配器/637" guid="f6004f8c-1a1e-4dd8-bd71-8ae30ed4f917">
+            <ps />
+          </pg>
+          <pg id="8" n="AC DC 转换器" url="http://www.digikey.com.cn/search/zh/电源-外部-内部（外接）/AC-DC-转换器/629" guid="7979da4d-e037-4344-a940-c2a9b7ac3339">
+            <ps />
+          </pg>
+          <pg id="9" n="LED 电源" url="http://www.digikey.com.cn/search/zh/电源-外部-内部（外接）/LED-电源/635" guid="086dbff2-0dd9-4b5b-a438-a982d0efed5e">
+            <ps />
+          </pg>
+        </pgs>
+      </wgt>
+      <wgt id="8" n="电缆，电线" url="http://www.digikey.com.cn/search/zh/电缆-电线/66" guid="8117e810-6470-4d82-bc02-493753e790a7">
+        <pgs>
+          <pg id="1" n="光纤电缆" url="http://www.digikey.com.cn/search/zh/电缆-电线/光纤电缆/69" guid="0292ba38-385f-4998-bbbb-cab712359118">
+            <ps />
+          </pg>
+          <pg id="2" n="单芯电缆（连接线）" url="http://www.digikey.com.cn/search/zh/电缆-电线/单芯电缆（连接线）/73" guid="5148faa6-4849-42a1-adce-dd5c6274062d">
+            <ps />
+          </pg>
+          <pg id="3" n="同轴电缆（RF）" url="http://www.digikey.com.cn/search/zh/电缆-电线/同轴电缆（RF）/4491" guid="955689c5-da32-48cb-9f8e-cc507e9bab4d">
+            <ps />
+          </pg>
+          <pg id="4" n="多芯导线" url="http://www.digikey.com.cn/search/zh/电缆-电线/多芯导线/72" guid="5cd12d2e-05be-4b1a-819f-d4e9aa546af8">
+            <ps />
+          </pg>
+          <pg id="5" n="平软线（FFC，FPC）" url="http://www.digikey.com.cn/search/zh/电缆-电线/平软线（FFC-FPC）/68" guid="d074191d-48d8-40c8-82e0-617ee8ec2a00">
+            <ps />
+          </pg>
+          <pg id="6" n="扁平带状电缆" url="http://www.digikey.com.cn/search/zh/电缆-电线/扁平带状电缆/70" guid="7f309f8c-fef7-4244-a0d5-265ee6431472">
+            <ps />
+          </pg>
+          <pg id="7" n="模块 - 扁平缆线" url="http://www.digikey.com.cn/search/zh/电缆-电线/模块-扁平缆线/71" guid="e0b15cee-a110-42ee-9b5e-dd0338058b9e">
+            <ps />
+          </pg>
+          <pg id="8" n="绕接线" url="http://www.digikey.com.cn/search/zh/电缆-电线/绕接线/74" guid="f8d14450-3a3f-4f6a-8e02-d33211c72c50">
+            <ps />
+          </pg>
+        </pgs>
+      </wgt>
+      <wgt id="9" n="电缆，电线 - 管理" url="http://www.digikey.com.cn/search/zh/电缆-电线-管理/75" guid="cb2c19f7-4dad-4bb7-b9df-bffb4b006284">
+        <pgs>
+          <pg id="1" n="光纤电缆" url="http://www.digikey.com.cn/search/zh/电缆-电线-管理/光纤电缆/81" guid="aa110b0d-d016-4081-a012-fb6981ba89a8">
+            <ps />
+          </pg>
+          <pg id="2" n="冷缩带，套管" url="http://www.digikey.com.cn/search/zh/电缆-电线-管理/冷缩带-套管/80" guid="bd8812d9-5b72-44ab-a955-c7672ee62c3b">
+            <ps />
+          </pg>
+          <pg id="3" n="套管，索环" url="http://www.digikey.com.cn/search/zh/电缆-电线-管理/套管-索环/77" guid="a1b29fe7-611c-4203-a20f-0a84d4d298e3">
+            <ps />
+          </pg>
+          <pg id="4" n="实心管，套管" url="http://www.digikey.com.cn/search/zh/电缆-电线-管理/实心管-套管/90" guid="1b136d73-4917-4105-afda-e87b3e3e3d5e">
+            <ps />
+          </pg>
+          <pg id="5" n="布线管，配线管道" url="http://www.digikey.com.cn/search/zh/电缆-电线-管理/布线管-配线管道/95" guid="d79c179c-8851-490b-9503-bda72ab16d11">
+            <ps />
+          </pg>
+          <pg id="6" n="接地编织线，微调" url="http://www.digikey.com.cn/search/zh/电缆-电线-管理/接地编织线-微调/82" guid="3ddfd974-7696-4c1a-a2c1-d9f0b5ec8944">
+            <ps />
+          </pg>
+          <pg id="7" n="标签，标记" url="http://www.digikey.com.cn/search/zh/电缆-电线-管理/标签-标记/2404" guid="689e3d89-f5f9-4c38-98bf-d368ad9d37ee">
+            <ps />
+          </pg>
+          <pg id="8" n="标记" url="http://www.digikey.com.cn/search/zh/电缆-电线-管理/标记/87" guid="659705cf-0973-44df-8530-a3d4ce607ae0">
+            <ps />
+          </pg>
+          <pg id="9" n="热收缩套，帽盖" url="http://www.digikey.com.cn/search/zh/电缆-电线-管理/热收缩套-帽盖/83" guid="a460a66c-e8d2-476a-a32d-d6cc930e19ec">
+            <ps />
+          </pg>
+          <pg id="10" n="热缩布" url="http://www.digikey.com.cn/search/zh/电缆-电线-管理/热缩布/84" guid="666604ed-c04a-4000-806f-49dd13368c17">
+            <ps />
+          </pg>
+          <pg id="11" n="热缩管" url="http://www.digikey.com.cn/search/zh/电缆-电线-管理/热缩管/85" guid="6d8bd2b6-7e8c-4440-82bd-feabea162da5">
+            <ps />
+          </pg>
+          <pg id="12" n="热缩裹包" url="http://www.digikey.com.cn/search/zh/电缆-电线-管理/热缩裹包/86" guid="acf1f9ec-43c6-48fc-8c89-4f61aea8f22d">
+            <ps />
+          </pg>
+          <pg id="13" n="焊接套管" url="http://www.digikey.com.cn/search/zh/电缆-电线-管理/焊接套管/89" guid="fa48ad3e-567d-4d70-b51f-94102b071484">
+            <ps />
+          </pg>
+          <pg id="14" n="电缆扎带 - 支座和附件" url="http://www.digikey.com.cn/search/zh/电缆-电线-管理/电缆扎带 -支座和附件/94" guid="8aea0c6b-de32-493b-aa63-1b2d959db4b3">
+            <ps />
+          </pg>
+          <pg id="15" n="电缆扎带和电缆系带" url="http://www.digikey.com.cn/search/zh/电缆-电线-管理/电缆扎带和电缆系带/93" guid="ac8f66b4-a7bb-4d80-ab4e-a975747535c5">
+            <ps />
+          </pg>
+          <pg id="16" n="电缆拉柄与支持握柄" url="http://www.digikey.com.cn/search/zh/电缆-电线-管理/电缆拉柄与支持握柄/88" guid="808aafa5-901a-417b-baf9-29239a8b1bc8">
+            <ps />
+          </pg>
+          <pg id="17" n="线夹和夹具" url="http://www.digikey.com.cn/search/zh/电缆-电线-管理/线夹和夹具/79" guid="a46a025c-7325-42ee-8d05-a4b39b717aa1">
+            <ps />
+          </pg>
+          <pg id="18" n="线槽，走线系统 - 附件" url="http://www.digikey.com.cn/search/zh/电缆-电线-管理/线槽-走线系统-附件/96" guid="73f8d1f0-43c7-45b9-939a-cd4c2a55fcc4">
+            <ps />
+          </pg>
+          <pg id="19" n="缆线固定扣" url="http://www.digikey.com.cn/search/zh/电缆-电线-管理/缆线固定扣/78" guid="136c76f1-35ff-4be6-8683-bd618f92db3b">
+            <ps />
+          </pg>
+          <pg id="20" n="螺线形绕线，伸缩套管" url="http://www.digikey.com.cn/search/zh/电缆-电线-管理/螺线形绕线-伸缩套管/91" guid="a75cadbf-07f9-40d7-94e6-fdb65e3686eb">
+            <ps />
+          </pg>
+          <pg id="21" n="配件" url="http://www.digikey.com.cn/search/zh/电缆-电线-管理/配件/76" guid="d817af66-4b8a-43e5-aeb3-60fe2adc3a97">
+            <ps />
+          </pg>
+          <pg id="22" n="配线箱，保护" url="http://www.digikey.com.cn/search/zh/电缆-电线-管理/配线箱-保护/92" guid="b6877ed4-1053-415b-b00b-52c1b8228ecf">
+            <ps />
+          </pg>
+        </pgs>
+      </wgt>
+      <wgt id="10" n="盒子，外壳，机架" url="http://www.digikey.com.cn/search/zh/盒子-外壳-机架/26" guid="7463467a-fd58-4712-b25f-c056cd3d5c63">
+        <pgs>
+          <pg id="1" n="卡导槽配件" url="http://www.digikey.com.cn/search/zh/盒子-外壳-机架/卡导槽配件/32" guid="8b7e7cc3-0d56-4a64-9256-8ed59c1411b3">
+            <ps />
+          </pg>
+          <pg id="2" n="卡导轨" url="http://www.digikey.com.cn/search/zh/盒子-外壳-机架/卡导轨/31" guid="8eada9b2-878f-4a94-9ab7-049cf12c8c6b">
+            <ps />
+          </pg>
+          <pg id="3" n="卡机架配件" url="http://www.digikey.com.cn/search/zh/盒子-外壳-机架/卡机架配件/34" guid="cc85fd62-c39d-48da-81fb-339da9fff7f5">
+            <ps />
+          </pg>
+          <pg id="4" n="卡片支架" url="http://www.digikey.com.cn/search/zh/盒子-外壳-机架/卡片支架/33" guid="bc2db123-737b-42f7-8942-b7827f7f9c93">
+            <ps />
+          </pg>
+          <pg id="5" n="手柄，锁，锁存器" url="http://www.digikey.com.cn/search/zh/盒子-外壳-机架/手柄-锁-锁存器/35" guid="475de673-62b4-46da-a846-f47355c1146f">
+            <ps />
+          </pg>
+          <pg id="6" n="插头板，插孔面板配件" url="http://www.digikey.com.cn/search/zh/盒子-外壳-机架/插头板-插孔面板配件/37" guid="87db817b-8acd-410e-97c7-bca84cd0b537">
+            <ps />
+          </pg>
+          <pg id="7" n="插线台，插座面板" url="http://www.digikey.com.cn/search/zh/盒子-外壳-机架/插线台-插座面板/36" guid="74a980ff-a00d-4795-93c4-55ea474d867e">
+            <ps />
+          </pg>
+          <pg id="8" n="支架" url="http://www.digikey.com.cn/search/zh/盒子-外壳-机架/支架/38" guid="e82be928-89bc-43b7-8682-713620ba72ad">
+            <ps />
+          </pg>
+          <pg id="9" n="机架热管理" url="http://www.digikey.com.cn/search/zh/盒子-外壳-机架/机架热管理/41" guid="dcb403a5-20ee-4d89-91a0-c136b816aa04">
+            <ps />
+          </pg>
+          <pg id="10" n="机架组件" url="http://www.digikey.com.cn/search/zh/盒子-外壳-机架/机架组件/40" guid="431a94e2-3ee1-489b-88e6-498a61fbfe93">
+            <ps />
+          </pg>
+          <pg id="11" n="机架配件" url="http://www.digikey.com.cn/search/zh/盒子-外壳-机架/机架配件/39" guid="b468e27b-78fd-477a-81c8-73729ba1c966">
+            <ps />
+          </pg>
+          <pg id="12" n="盒组件" url="http://www.digikey.com.cn/search/zh/盒子-外壳-机架/盒组件/30" guid="b7c1e12b-f22a-409c-80a9-5ba07f91187b">
+            <ps />
+          </pg>
+          <pg id="13" n="盒配件" url="http://www.digikey.com.cn/search/zh/盒子-外壳-机架/盒配件/29" guid="d71bbfa4-6907-43bd-a548-6679c0650277">
+            <ps />
+          </pg>
+          <pg id="14" n="箱" url="http://www.digikey.com.cn/search/zh/盒子-外壳-机架/箱/28" guid="e336e381-6ab2-4e03-9d2e-a507ea0cd193">
+            <ps />
+          </pg>
+          <pg id="15" n="背板" url="http://www.digikey.com.cn/search/zh/盒子-外壳-机架/背板/27" guid="3ec48689-e41d-46e0-815a-69b2044faa12">
+            <ps />
+          </pg>
+        </pgs>
+      </wgt>
+      <wgt id="11" n="硬件，紧固件，配件" url="http://www.digikey.com.cn/search/zh/硬件-紧固件-配件/361" guid="436f8bb0-fd06-40d6-a717-3d3059203a3f">
+        <pgs>
+          <pg id="1" n="元件绝缘子，安装座，垫片" url="http://www.digikey.com.cn/search/zh/硬件-紧固件-配件/元件绝缘子-安装座-垫片/4441" guid="35e2bf09-6f95-44d3-8ec5-d6c612d44d30">
+            <ps />
+          </pg>
+          <pg id="2" n="其它" url="http://www.digikey.com.cn/search/zh/硬件-紧固件-配件/其它/372" guid="d8887578-d888-4b25-a42b-a88e3df4717d">
+            <ps />
+          </pg>
+          <pg id="3" n="垫圈" url="http://www.digikey.com.cn/search/zh/硬件-紧固件-配件/垫圈/378" guid="c13ae9c6-1836-40a8-af55-265d258ef0af">
+            <ps />
+          </pg>
+          <pg id="4" n="垫圈 - 套管，凸肩" url="http://www.digikey.com.cn/search/zh/硬件-紧固件-配件/垫圈-套管-凸肩/379" guid="7c399d5f-7660-4fde-ab9e-ae40f7694fcf">
+            <ps />
+          </pg>
+          <pg id="5" n="孔插头" url="http://www.digikey.com.cn/search/zh/硬件-紧固件-配件/孔插头/367" guid="b64e03d9-505f-4d29-872b-09d7f5b4e4ed">
+            <ps />
+          </pg>
+          <pg id="6" n="安装支架" url="http://www.digikey.com.cn/search/zh/硬件-紧固件-配件/安装支架/373" guid="5592f5da-52ee-448f-b320-438ca22c8c13">
+            <ps />
+          </pg>
+          <pg id="7" n="旋钮" url="http://www.digikey.com.cn/search/zh/硬件-紧固件-配件/旋钮/369" guid="fec785fb-fe2b-456f-afde-e12f4d8dd71e">
+            <ps />
+          </pg>
+          <pg id="8" n="标签，标记" url="http://www.digikey.com.cn/search/zh/硬件-紧固件-配件/标签-标记/370" guid="92d957e5-28a2-4bba-a707-8ca3ca2a9016">
+            <ps />
+          </pg>
+          <pg id="9" n="电路板支座" url="http://www.digikey.com.cn/search/zh/硬件-紧固件-配件/电路板支座/364" guid="3e461d70-af7a-44af-bee2-36b9202c72e5">
+            <ps />
+          </pg>
+          <pg id="10" n="电路板衬垫，支座" url="http://www.digikey.com.cn/search/zh/硬件-紧固件-配件/电路板衬垫-支座/363" guid="b2280d4d-5c4e-43da-a5fb-37845959b0d7">
+            <ps />
+          </pg>
+          <pg id="11" n="缓冲器，支脚，焊盘，握把" url="http://www.digikey.com.cn/search/zh/硬件-紧固件-配件/缓冲器-支脚-焊盘-握把/365" guid="d44569e2-f895-4713-933e-52d610b4cb9d">
+            <ps />
+          </pg>
+          <pg id="12" n="螺帽" url="http://www.digikey.com.cn/search/zh/硬件-紧固件-配件/螺帽/374" guid="5f769fe6-df84-4906-bca8-d67f19666c40">
+            <ps />
+          </pg>
+          <pg id="13" n="螺絲釘，螺栓" url="http://www.digikey.com.cn/search/zh/硬件-紧固件-配件/螺絲釘-螺栓/377" guid="b868831b-9b84-49f6-acc3-454634f66118">
+            <ps />
+          </pg>
+          <pg id="14" n="螺钉扣眼" url="http://www.digikey.com.cn/search/zh/硬件-紧固件-配件/螺钉扣眼/376" guid="0722b1a0-b41e-46ce-9405-c3e33a20f4f2">
+            <ps />
+          </pg>
+          <pg id="15" n="配件" url="http://www.digikey.com.cn/search/zh/硬件-紧固件-配件/配件/362" guid="0d241ad4-29f8-4751-9b92-32cf129b0527">
+            <ps />
+          </pg>
+          <pg id="16" n="铆钉" url="http://www.digikey.com.cn/search/zh/硬件-紧固件-配件/铆钉/375" guid="28d21d38-fc73-4dff-a8fb-7eb5a5f4f7bd">
+            <ps />
+          </pg>
+          <pg id="17" n="锁定，扣锁" url="http://www.digikey.com.cn/search/zh/硬件-紧固件-配件/锁定-扣锁/371" guid="e775b5a7-64dd-4a0f-852a-791689534089">
+            <ps />
+          </pg>
+          <pg id="18" n="DIN 导轨通道" url="http://www.digikey.com.cn/search/zh/硬件-紧固件-配件/DIN-导轨通道/366" guid="000d6579-a3b0-4371-ae0e-484330176fb8">
+            <ps />
+          </pg>
+        </pgs>
+      </wgt>
+      <wgt id="12" n="继电器" url="http://www.digikey.com.cn/search/zh/继电器/670" guid="e28e684f-a6b6-42fb-8b40-3ca35f838247">
+        <pgs>
+          <pg id="1" n="信号继电器，高达 2 A" url="http://www.digikey.com.cn/search/zh/继电器/信号继电器-高达-2-A/677" guid="2017ed06-5605-4952-9942-b1bcbe5bb3d1">
+            <ps />
+          </pg>
+          <pg id="2" n="功率继电器，高于 2 A" url="http://www.digikey.com.cn/search/zh/继电器/功率继电器-高于-2-A/676" guid="e1158281-9ce0-471f-bf47-e02894722b9d">
+            <ps />
+          </pg>
+          <pg id="3" n="固态继电器" url="http://www.digikey.com.cn/search/zh/继电器/固态继电器/679" guid="4d4883b0-202f-4ed0-b0e5-64c7ef866b9d">
+            <ps />
+          </pg>
+          <pg id="4" n="延时继电器" url="http://www.digikey.com.cn/search/zh/继电器/延时继电器/680" guid="87cea748-6d15-4309-949c-86599f4c82ea">
+            <ps />
+          </pg>
+          <pg id="5" n="继电器插座" url="http://www.digikey.com.cn/search/zh/继电器/继电器插座/678" guid="e95fdd6c-798b-4cc1-90d5-e27d8f6dfcba">
+            <ps />
+          </pg>
+          <pg id="6" n="输入/输出继电器模块 - 模拟" url="http://www.digikey.com.cn/search/zh/继电器/输入-输出继电器模块-模拟/673" guid="764818f9-e1d5-4062-af96-31d9d871b6ce">
+            <ps />
+          </pg>
+          <pg id="7" n="配件" url="http://www.digikey.com.cn/search/zh/继电器/配件/671" guid="ea17ad56-7931-4186-b7ca-d1e28510dbd6">
+            <ps />
+          </pg>
+          <pg id="8" n="I/O 继电器模块 - 输入" url="http://www.digikey.com.cn/search/zh/继电器/I-O-继电器模块-输入/674" guid="7bea34d0-f885-4651-b65e-40aebd45b2ab">
+            <ps />
+          </pg>
+          <pg id="9" n="I/O 继电器模块 - 输出" url="http://www.digikey.com.cn/search/zh/继电器/I-O-继电器模块-输出/675" guid="42656c2a-eb07-475e-9dc2-928f09421780">
+            <ps />
+          </pg>
+          <pg id="10" n="I/O 继电器模块机架" url="http://www.digikey.com.cn/search/zh/继电器/I-O-继电器模块机架/672" guid="db31f63d-f9c5-4207-bd70-e3ccfa26428a">
+            <ps />
+          </pg>
+        </pgs>
+      </wgt>
+      <wgt id="13" n="胶带，粘合剂" url="http://www.digikey.com.cn/search/zh/胶带-粘合剂/833" guid="c0dc5975-fc0c-4aab-bf21-4cb50ec7ef2b">
+        <pgs>
+          <pg id="1" n="带" url="http://www.digikey.com.cn/search/zh/胶带-粘合剂/带/835" guid="5a7a32e4-154c-4f0b-b4c8-91e9589bcd85">
+            <ps />
+          </pg>
+          <pg id="2" n="带分配器" url="http://www.digikey.com.cn/search/zh/胶带-粘合剂/带分配器/836" guid="413541c1-4fc5-4742-bbc3-e32fe0887576">
+            <ps />
+          </pg>
+          <pg id="3" n="胶，粘合剂，敷料器" url="http://www.digikey.com.cn/search/zh/胶带-粘合剂/胶-粘合剂-敷料器/834" guid="a0f5fdfd-7e0e-4c42-be95-153865ae0c50">
+            <ps />
+          </pg>
+        </pgs>
+      </wgt>
+      <wgt id="14" n="静电控制，ESD，无尘室产品" url="http://www.digikey.com.cn/search/zh/静电控制-ESD-无尘室产品/798" guid="1c66326f-3bab-47cd-88b1-0f25aa10851f">
+        <pgs>
+          <pg id="1" n="无尘室处理，清洁剂，擦拭巾" url="http://www.digikey.com.cn/search/zh/静电控制-ESD-无尘室产品/无尘室处理-清洁剂-擦拭巾/809" guid="63dd93e7-acd0-4b6d-a5c0-eb3f395b518e">
+            <ps />
+          </pg>
+          <pg id="2" n="无尘室棉签和刷子" url="http://www.digikey.com.cn/search/zh/静电控制-ESD-无尘室产品/无尘室棉签和刷子/808" guid="8defdb4f-b2f9-4085-9373-b2c29b9418e1">
+            <ps />
+          </pg>
+          <pg id="3" n="电离装置" url="http://www.digikey.com.cn/search/zh/静电控制-ESD-无尘室产品/电离装置/805" guid="4392bbef-e4c1-4c2a-9f42-9b30d330b263">
+            <ps />
+          </pg>
+          <pg id="4" n="监视器，测试仪" url="http://www.digikey.com.cn/search/zh/静电控制-ESD-无尘室产品/监视器-测试仪/806" guid="74af1128-54d1-4f14-8b15-9718807faa95">
+            <ps />
+          </pg>
+          <pg id="5" n="配件" url="http://www.digikey.com.cn/search/zh/静电控制-ESD-无尘室产品/配件/799" guid="e33e617a-454d-4474-96fe-9c25081e2151">
+            <ps />
+          </pg>
+          <pg id="6" n="静电控制器件容器" url="http://www.digikey.com.cn/search/zh/静电控制-ESD-无尘室产品/静电控制器件容器/801" guid="f015ba68-385c-4467-b924-d9af9d29e2e8">
+            <ps />
+          </pg>
+          <pg id="7" n="静电控制屏蔽包，材料" url="http://www.digikey.com.cn/search/zh/静电控制-ESD-无尘室产品/静电控制屏蔽包-材料/807" guid="42c66a38-2a76-4c49-ad95-208980c008c9">
+            <ps />
+          </pg>
+          <pg id="8" n="静电控制接地垫" url="http://www.digikey.com.cn/search/zh/静电控制-ESD-无尘室产品/静电控制接地垫/804" guid="53eb183e-7a34-4e8b-b6a3-120d6ccc0eb2">
+            <ps />
+          </pg>
+          <pg id="9" n="静电控制接地线，带" url="http://www.digikey.com.cn/search/zh/静电控制-ESD-无尘室产品/静电控制接地线-带/803" guid="87af2c45-7ccb-4156-b7f8-bf7d0f2c5a4a">
+            <ps />
+          </pg>
+          <pg id="10" n="静电控制服" url="http://www.digikey.com.cn/search/zh/静电控制-ESD-无尘室产品/静电控制服/800" guid="d5b28eab-61a6-4bc6-b6c4-b014192afeff">
+            <ps />
+          </pg>
+        </pgs>
+      </wgt>
+      <wgt id="15" n="风扇，热管理" url="http://www.digikey.com.cn/search/zh/风扇-热管理/332" guid="4f33c4f1-f33e-4978-84ad-b48e61f9e46a">
+        <pgs>
+          <pg id="1" n="热 - 垫，片" url="http://www.digikey.com.cn/search/zh/风扇-热管理/热-垫-片/341" guid="1726f80b-612b-4d27-978f-ea621243e870">
+            <ps />
+          </pg>
+          <pg id="2" n="热 - 液体冷却" url="http://www.digikey.com.cn/search/zh/风扇-热管理/热-液体冷却/6096" guid="4139749e-fc2f-4afd-a9c8-3e5aac71d54d">
+            <ps />
+          </pg>
+          <pg id="3" n="热 - 热电，Peltier 模块" url="http://www.digikey.com.cn/search/zh/风扇-热管理/热-热电-Peltier-模块/343" guid="58a04ecf-1806-473b-ad45-92ddd5e38cdf">
+            <ps />
+          </pg>
+          <pg id="4" n="热 - 热电，Peltier 组件" url="http://www.digikey.com.cn/search/zh/风扇-热管理/热-热电-Peltier-组件/342" guid="f4aa9f20-2972-4afb-87f1-1a1922124f1d">
+            <ps />
+          </pg>
+          <pg id="5" n="热敏 - 散热器" url="http://www.digikey.com.cn/search/zh/风扇-热管理/热敏-散热器/340" guid="2d0a24f2-c51f-4e7d-ae19-96961bcdd1ce">
+            <ps />
+          </pg>
+          <pg id="6" n="热敏 - 配件" url="http://www.digikey.com.cn/search/zh/风扇-热管理/热敏-配件/338" guid="df3f2582-f458-42a7-9931-e1f1e4c83337">
+            <ps />
+          </pg>
+          <pg id="7" n="热润滑脂，环氧树脂" url="http://www.digikey.com.cn/search/zh/风扇-热管理/热润滑脂-环氧树脂/339" guid="28c495a2-ae5c-4fe9-8f0d-3073c1aa5fed">
+            <ps />
+          </pg>
+          <pg id="8" n="风扇 - 护手板，滤波器和套管" url="http://www.digikey.com.cn/search/zh/风扇-热管理/风扇-护手板-滤波器和套管/337" guid="52561fa4-99d3-40d9-85fe-310bc24bfa73">
+            <ps />
+          </pg>
+          <pg id="9" n="风扇 - 配件" url="http://www.digikey.com.cn/search/zh/风扇-热管理/风扇-配件/334" guid="9789f043-865a-4a7b-9ae1-0277464eadaa">
+            <ps />
+          </pg>
+          <pg id="10" n="AC 风扇" url="http://www.digikey.com.cn/search/zh/风扇-热管理/AC-风扇/335" guid="fbb48c06-f47d-4bef-ae56-559050e23590">
+            <ps />
+          </pg>
+          <pg id="11" n="DC 风扇" url="http://www.digikey.com.cn/search/zh/风扇-热管理/DC-风扇/336" guid="3b6906f8-bb79-4a35-92d2-fe98249d0be7">
+            <ps />
+          </pg>
+        </pgs>
+      </wgt>
+    </wgts>
+  </cat>
+</r>

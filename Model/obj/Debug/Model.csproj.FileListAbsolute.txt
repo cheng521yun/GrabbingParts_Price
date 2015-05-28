@@ -1,0 +1,4 @@
+D:\GrabbingParts\GrabbingParts\Model\bin\Debug\GrabbingParts.Model.dll
+D:\GrabbingParts\GrabbingParts\Model\bin\Debug\GrabbingParts.Model.pdb
+D:\GrabbingParts\GrabbingParts\Model\obj\Debug\GrabbingParts.Model.dll
+D:\GrabbingParts\GrabbingParts\Model\obj\Debug\GrabbingParts.Model.pdb

@@ -1,0 +1,9 @@
+F:\MyWork\《网站项目》\《唯芯会》\外包程序\Crawler\Crawler-master_V25\BLL\Types\bin\Debug\GrabbingParts.BLL.Types.dll
+F:\MyWork\《网站项目》\《唯芯会》\外包程序\Crawler\Crawler-master_V25\BLL\Types\bin\Debug\GrabbingParts.BLL.Types.pdb
+F:\MyWork\《网站项目》\《唯芯会》\外包程序\Crawler\Crawler-master_V25\BLL\Types\obj\Debug\Types.csprojResolveAssemblyReference.cache
+F:\MyWork\《网站项目》\《唯芯会》\外包程序\Crawler\Crawler-master_V25\BLL\Types\obj\Debug\GrabbingParts.BLL.Types.dll
+F:\MyWork\《网站项目》\《唯芯会》\外包程序\Crawler\Crawler-master_V25\BLL\Types\obj\Debug\GrabbingParts.BLL.Types.pdb
+D:\GrabbingParts\GrabbingParts\BLL\Types\bin\Debug\GrabbingParts.BLL.Types.dll
+D:\GrabbingParts\GrabbingParts\BLL\Types\bin\Debug\GrabbingParts.BLL.Types.pdb
+D:\GrabbingParts\GrabbingParts\BLL\Types\obj\Debug\GrabbingParts.BLL.Types.dll
+D:\GrabbingParts\GrabbingParts\BLL\Types\obj\Debug\GrabbingParts.BLL.Types.pdb

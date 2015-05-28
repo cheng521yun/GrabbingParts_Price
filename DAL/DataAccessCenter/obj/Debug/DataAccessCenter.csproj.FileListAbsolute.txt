@@ -1,0 +1,13 @@
+F:\MyWork\《网站项目》\《唯芯会》\外包程序\Crawler\Crawler-master_V25\DAL\DataAccessCenter\bin\Debug\DataAccessCenter.dll
+F:\MyWork\《网站项目》\《唯芯会》\外包程序\Crawler\Crawler-master_V25\DAL\DataAccessCenter\bin\Debug\DataAccessCenter.pdb
+F:\MyWork\《网站项目》\《唯芯会》\外包程序\Crawler\Crawler-master_V25\DAL\DataAccessCenter\bin\Debug\log4net.dll
+F:\MyWork\《网站项目》\《唯芯会》\外包程序\Crawler\Crawler-master_V25\DAL\DataAccessCenter\bin\Debug\log4net.xml
+F:\MyWork\《网站项目》\《唯芯会》\外包程序\Crawler\Crawler-master_V25\DAL\DataAccessCenter\obj\Debug\DataAccessCenter.csprojResolveAssemblyReference.cache
+F:\MyWork\《网站项目》\《唯芯会》\外包程序\Crawler\Crawler-master_V25\DAL\DataAccessCenter\obj\Debug\DataAccessCenter.dll
+F:\MyWork\《网站项目》\《唯芯会》\外包程序\Crawler\Crawler-master_V25\DAL\DataAccessCenter\obj\Debug\DataAccessCenter.pdb
+D:\GrabbingParts\GrabbingParts\DAL\DataAccessCenter\bin\Debug\DataAccessCenter.dll
+D:\GrabbingParts\GrabbingParts\DAL\DataAccessCenter\bin\Debug\DataAccessCenter.pdb
+D:\GrabbingParts\GrabbingParts\DAL\DataAccessCenter\bin\Debug\log4net.dll
+D:\GrabbingParts\GrabbingParts\DAL\DataAccessCenter\bin\Debug\log4net.xml
+D:\GrabbingParts\GrabbingParts\DAL\DataAccessCenter\obj\Debug\DataAccessCenter.dll
+D:\GrabbingParts\GrabbingParts\DAL\DataAccessCenter\obj\Debug\DataAccessCenter.pdb
